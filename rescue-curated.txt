@@ -1,0 +1,1 @@
+MONDO:0008406 ## autosomal recessive Emery-Dreifuss muscular dystrophy
