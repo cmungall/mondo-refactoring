@@ -12,7 +12,7 @@ candidates.tsv:
 	runoak -i $(DB) query -q "SELECT DISTINCT id FROM obsoletion_candidate ORDER BY id" -o $@
 
 refactored.obo: $(SRC) candidates.tsv
-	runoak --stacktrace -i simpleobo:$< apply-obsolete --ignore-invalid-changes [ .idfile candidates.tsv .idfile candidates-curated.txt ] .not .idfile rescue-curated.txt -o $@.tmp && egrep -v 'relationship: excluded_subClassOf .*Rewired from link to' $@.tmp > $@
+	runoak --stacktrace -i simpleobo:$< apply-obsolete --ignore-invalid-changes [ .idfile candidates.tsv .idfile candidates-curated.txt ] .not .idfile rescue-curated.txt -o $@.tmp && egrep -v 'relationship: excluded_subClassOf .*Rewired from link to' $@.tmp | egrep -v 'is_a: MONDO:0000001 {description="Rewired from link' > $@
 
 refactored-normalized.obo: refactored.obo
 	robot convert -i $< -o $@
