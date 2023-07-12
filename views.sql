@@ -4,7 +4,7 @@ CREATE VIEW is_a AS
  WHERE object NOT LIKE '_:%';
 
 -- ORDO equivs
-DROP VIEW IF exists mondo_with_ordo
+DROP VIEW IF exists mondo_with_ordo;
 CREATE VIEW mondo_with_ordo AS
  SELECT DISTINCT subject AS id
  FROM has_dbxref_statement
@@ -82,8 +82,9 @@ CREATE VIEW sole_ordo_is_a AS
  WHERE NOT EXISTS (SELECT subject,object FROM is_a_source AS e2 WHERE e1.subject=e2.subject AND e1.object=e2.object AND annotation_value NOT LIKE 'Orphanet:%');
 
 -- candidate for is-a removal
+DROP VIEW IF EXISTS ordo_is_a_candidate;
 CREATE VIEW ordo_is_a_candidate AS
- SELECT DISTINCT e1.subject, e1.object, e1.annotation_value AS ordo_id, e2.object AS preferred_object
+ SELECT DISTINCT e1.subject, e1.object, e1.annotation_value AS ordo_id, e2.object AS preferred_object, e2.annotation_value AS preferred_edge_source
  FROM
   sole_ordo_is_a AS e1,
   non_ordo_is_a AS e2

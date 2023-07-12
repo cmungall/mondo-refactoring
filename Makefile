@@ -1,9 +1,12 @@
 SRC = ../mondo-edit.obo
-DB = sqlite:obo:mondo
-DB_PATH = $(HOME)/.data/oaklib/mondo.db
+DB = mondo.db
+SRC_DB_PATH = $(HOME)/.data/oaklib/mondo.db
 
 load-views: views.sql
 	cat views.sql | sqlite3 $(DB_PATH) 
+
+link:
+	ln -s $(SRC_DB_PATH) $(DB)
 
 candidates.tsv:
 	runoak -i $(DB) query -q "SELECT DISTINCT id FROM obsoletion_candidate ORDER BY id" -o $@
@@ -15,4 +18,4 @@ refactored-normalized.obo: refactored.obo
 	robot convert -i $< -o $@
 
 is-a-candidates.tsv:
-	runoak -i $(DB) query -q "SELECT * FROM ordo_is_a_candidate"
+	runoak -i $(DB) query -q "SELECT DISTINCT * FROM ordo_is_a_candidate ORDER BY subject, object, preferred_object" -o $@
