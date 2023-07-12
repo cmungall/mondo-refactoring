@@ -1,44 +1,107 @@
 subject	subject_label
+MONDO:0008347	idiopathic and/or familial pulmonary arterial hypertension
 MONDO:0008406	autosomal recessive Emery-Dreifuss muscular dystrophy
 MONDO:0009043	generalized resistance to thyroid hormone
 MONDO:0013742	familial mesial temporal lobe epilepsy with febrile seizures
 MONDO:0014013	maternal riboflavin deficiency
+MONDO:0015029	reticular perineurioma
+MONDO:0015030	sclerosing perineurioma
+MONDO:0015034	lissencephaly with cerebellar hypoplasia type A
+MONDO:0015038	lissencephaly with cerebellar hypoplasia type E
+MONDO:0015042	primary plasmacytoma of the bone
 MONDO:0015051	tubular duplication of the esophagus
+MONDO:0015054	hereditary angioedema type 2
+MONDO:0015055	acquired angioedema type 2
+MONDO:0015056	acquired angioedema type 1
+MONDO:0015077	adrenal/paraganglial tumor
 MONDO:0015082	alopecia antibody deficiency
 MONDO:0015083	nuclear oculomotor paralysis
+MONDO:0015087	autosomal dominant complex spastic paraplegia
+MONDO:0015088	autosomal dominant pure spastic paraplegia
+MONDO:0015089	autosomal recessive complex spastic paraplegia
+MONDO:0015090	autosomal recessive pure spastic paraplegia
 MONDO:0015093	sub-cortical nodular heterotopia
 MONDO:0015099	unilateral hemispheric polymicrogyria
+MONDO:0015101	Marin-Amat syndrome
 MONDO:0015102	non-secreting chemodectoma
+MONDO:0015103	pulmonary valve agenesis-tetralogy of fallot-absence of ductus arteriosus syndrome
 MONDO:0015109	congenital anomaly of the mitral subvalvular apparatus
+MONDO:0015110	genetic cardiac rhythm disease
+MONDO:0015111	gastroesophageal disease
 MONDO:0015126	polyendocrinopathy
 MONDO:0015130	acquired chronic primary adrenal insufficiency
 MONDO:0015132	immunodeficiency predominantly affecting antibody production
 MONDO:0015133	quantitative and/or qualitative congenital phagocyte defect
 MONDO:0015135	primary immunodeficiency due to a genetic defect in innate immunity
+MONDO:0015141	disorder of medulla oblongata
+MONDO:0015144	brain inflammatory disease
 MONDO:0015145	neurovascular malformation
 MONDO:0015148	lissencephaly type 3
+MONDO:0015157	human herpesvirus 8-related tumor
+MONDO:0015158	unexplained periodic fever syndrome
+MONDO:0015159	multiple congenital anomalies/dysmorphic syndrome-intellectual disability
 MONDO:0015160	multiple congenital anomalies/dysmorphic syndrome-variable intellectual disability syndrome
 MONDO:0015161	multiple congenital anomalies/dysmorphic syndrome without intellectual disability
+MONDO:0015164	acute myeloid leukemia and myelodysplastic syndromes related to alkylating agent
+MONDO:0015165	acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor
 MONDO:0015166	acute myeloid leukemia with t(8;21)(q22;q22) translocation
+MONDO:0015174	autoimmune enteropathy type 3
 MONDO:0015178	congenital intestinal transport defect
+MONDO:0015179	intestinal disease due to vitamin absorption anomaly
+MONDO:0015180	intestinal disease due to fat malabsorption
 MONDO:0015182	congenital enteropathy involving intestinal mucosa development
 MONDO:0015191	myopathic intestinal pseudoobstruction
+MONDO:0015201	ankyloblepharon filiforme-imperforate anus syndrome
+MONDO:0015204	microlissencephaly
 MONDO:0015207	non-syndromic esophageal malformation
+MONDO:0015208	syndromic esophageal malformation
 MONDO:0015209	non-syndromic gastroduodenal malformation
+MONDO:0015210	syndromic gastroduodenal malformation
 MONDO:0015211	non-syndromic intestinal malformation
+MONDO:0015212	syndromic intestinal malformation
 MONDO:0015213	non-syndromic visceral malformation
+MONDO:0015214	syndromic visceral malformation
 MONDO:0015215	non-syndromic diaphragmatic or abdominal wall malformation
+MONDO:0015216	syndromic diaphragmatic or abdominal wall malformation
 MONDO:0015217	non-syndromic developmental defect of the eye
 MONDO:0015219	non-syndromic central nervous system malformation
 MONDO:0015221	non-syndromic respiratory or mediastinal malformation
+MONDO:0015222	syndromic respiratory or mediastinal malformation
 MONDO:0015227	non-syndromic limb malformation
+MONDO:0015232	radial deficiency-tibial hypoplasia syndrome
+MONDO:0015246	syndromic anorectal malformation
+MONDO:0015248	ataxia-photosensitivity-short stature syndrome
 MONDO:0015256	blepharoptosis-cleft palate-ectrodactyly-dental anomalies syndrome
+MONDO:0015257	sino-auricular heart block
+MONDO:0015283	maternally-inherited cardiomyopathy and hearing loss
 MONDO:0015289	infectious epithelial keratitis
+MONDO:0015291	stromal keratitis
 MONDO:0015292	endotheliitis
+MONDO:0015295	intractable diarrhea-choanal atresia-eye anomalies syndrome
+MONDO:0015296	cardiac anomalies-heterotaxy syndrome
+MONDO:0015310	syndromic optic nerve hypoplasia
+MONDO:0015312	choanal atresia, unilateral
+MONDO:0015313	choanal atresia, bilateral
+MONDO:0015315	neonatal brainstem dysfunction
+MONDO:0015323	teratogenic Pierre Robin syndrome
 MONDO:0015327	developmental anomaly of metabolic origin
+MONDO:0015330	overgrowth/obesity syndrome
+MONDO:0015333	progeroid syndrome
+MONDO:0015334	branchial arch or oral-acral syndrome
+MONDO:0015335	orofacial clefting syndrome
 MONDO:0015337	isolated craniosynostosis
+MONDO:0015338	syndromic craniosynostosis
+MONDO:0015343	secondary acute transverse myelitis
 MONDO:0015344	idiopathic acute transverse myelitis
 MONDO:0015348	leukoencephalopathy with bilateral anterior temporal lobe cysts
+MONDO:0015357	secondary hypoparathyroidism due to impaired parathormon secretion
+MONDO:0015359	autosomal dominant hereditary demyelinating motor and sensory neuropathy
+MONDO:0015360	autosomal dominant hereditary axonal motor and sensory neuropathy
+MONDO:0015361	autosomal recessive hereditary demyelinating motor and sensory neuropathy
+MONDO:0015365	autosomal dominant hereditary sensory and autonomic neuropathy
+MONDO:0015366	autosomal recessive hereditary sensory and autonomic neuropathy
+MONDO:0015368	neuro-ophthalmological disease
+MONDO:0015369	Joubert syndrome and related disorders
 MONDO:0015381	commissural lip fistula
 MONDO:0015382	lower lip fistula
 MONDO:0015383	cervicofacial fibrochondroma
@@ -54,7 +117,9 @@ MONDO:0015415	oblique facial cleft
 MONDO:0015416	Tessier number 5 facial cleft
 MONDO:0015417	Tessier number 6 facial cleft
 MONDO:0015418	lateral facial cleft
+MONDO:0015429	choroideremia-hypopituitarism syndrome
 MONDO:0015445	autosomal dominant coarctation of aorta
+MONDO:0015468	craniosynostosis-cataract syndrome
 MONDO:0015476	cysts and fistulae of the face and oral cavity
 MONDO:0015477	pinnae fistula or cyst
 MONDO:0015478	paramedian facial cleft
@@ -68,12 +133,19 @@ MONDO:0015491	immune complex mediated vasculitis
 MONDO:0015493	lipoatrophy with diabetes, leukomelanodermic papules, liver steatosis, and hypertrophic cardiomyopathy
 MONDO:0015494	isolated dystonia
 MONDO:0015497	hypoglossia/aglossia
+MONDO:0015498	oromandibular-limb anomalies syndrome
 MONDO:0015499	paralytic facial malformation
 MONDO:0015503	nose and cavum anomaly
 MONDO:0015504	larynx anomaly
 MONDO:0015505	tracheal anomaly
+MONDO:0015508	genetic parenchymatous liver disease
+MONDO:0015509	genetic biliary tract disease
+MONDO:0015512	genetic hypertension
 MONDO:0015516	symbrachydactyly of hands and feet
 MONDO:0015519	congenital or early infantile CACH syndrome
+MONDO:0015520	late infantile CACH syndrome
+MONDO:0015521	juvenile or adult CACH syndrome
+MONDO:0015544	acquired hemophagocytic lymphohistiocytosis associated with malignant disease
 MONDO:0015546	non-distal monosomy 10q
 MONDO:0015547	genetic dementia
 MONDO:0015554	typical urticaria pigmentosa
@@ -86,34 +158,66 @@ MONDO:0015568	isolated congenital nasal pyriform aperture stenosis
 MONDO:0015569	congenital nasal pyriform aperture stenosis with holoprosencephaly
 MONDO:0015570	isolated congenital auditory ossicle malformation
 MONDO:0015585	cryptogenic late-onset epileptic spasms
+MONDO:0015586	benign familial mesial temporal lobe epilepsy
+MONDO:0015587	rolandic epilepsy-speech dyspraxia syndrome
 MONDO:0015590	classic paraneoplastic limbic encephalitis
 MONDO:0015591	limbic encephalitis associated with antibodies to cell membrane antigens
 MONDO:0015593	limbic encephalitis with nCMAgs antibodies
 MONDO:0015594	non-paraneoplastic limbic encephalitis
 MONDO:0015595	posttransplant acute limbic encephalitis
+MONDO:0015608	acute myeloid leukemia and myelodysplastic syndromes related to radiation
+MONDO:0015617	genetic gastro-esophageal disease
 MONDO:0015619	non-syndromic urogenital tract malformation
+MONDO:0015620	syndromic urogenital tract malformation
 MONDO:0015624	diazoxide-sensitive diffuse hyperinsulinism
 MONDO:0015625	diazoxide-resistant diffuse hyperinsulinism
 MONDO:0015632	FASTKD2-related infantile mitochondrial encephalomyopathy
 MONDO:0015634	isolated osteopoikilosis
+MONDO:0015637	benign non-familial infantile seizures
+MONDO:0015638	benign partial epilepsy of infancy with complex partial seizures
+MONDO:0015639	benign partial epilepsy with secondarily generalized seizures in infancy
 MONDO:0015641	benign infantile focal epilepsy with midline spikes and wave during sleep
 MONDO:0015642	benign partial infantile seizures
+MONDO:0015646	orgasm-induced seizures
+MONDO:0015649	micturation-induced seizures
 MONDO:0015650	epilepsy syndrome
+MONDO:0015653	monogenic epilepsy
 MONDO:0015668	hereditary dentin defect
+MONDO:0015679	autosomal thrombocytopenia with normal platelets
+MONDO:0015682	primary peritoneal tumor
+MONDO:0015683	primary malignant peritoneal tumor
 MONDO:0015699	immunodeficiency due to a classical component pathway complement deficiency
 MONDO:0015700	immunodeficiency due to a late component of complement deficiency
 MONDO:0015703	T-B+ severe combined immunodeficiency due to CD3delta/CD3epsilon/CD3zeta
+MONDO:0015706	mosaic trisomy 1
 MONDO:0015712	non-distal trisomy 10q
+MONDO:0015714	secondary central precocious puberty
+MONDO:0015715	severe hemophilia B
+MONDO:0015716	moderately severe hemophilia B
+MONDO:0015717	mild hemophilia B
+MONDO:0015720	moderately severe hemophilia A
 MONDO:0015741	distal trisomy 18q
+MONDO:0015745	microcephaly-polymicrogyria-corpus callosum agenesis syndrome
+MONDO:0015749	6q16 deletion syndrome
+MONDO:0015752	intellectual disability-cataracts-kyphosis syndrome
 MONDO:0015756	myeloid hemopathy
 MONDO:0015757	lymphoid hemopathy
 MONDO:0015764	mosaic trisomy 20
 MONDO:0015765	congenital myopathy with cores
 MONDO:0015775	non-rhizomelic chondrodysplasia punctata
+MONDO:0015777	adult hypothyroidism
+MONDO:0015778	syndromic hypothyroidism
+MONDO:0015782	dysmorphism-cleft palate-loose skin syndrome
+MONDO:0015785	Prader-Willi syndrome due to translocation
+MONDO:0015786	Prader-Willi syndrome due to imprinting mutation
+MONDO:0015787	symptomatic form of hemophilia A in female carriers
+MONDO:0015788	symptomatic form of hemophilia B in female carriers
+MONDO:0015801	hemorrhagic disease due to alpha-1-antitrypsin Pittsburgh mutation
 MONDO:0015816	indolent primary cutaneous T-cell lymphoma
 MONDO:0015817	aggressive primary cutaneous T-cell lymphoma
 MONDO:0015818	aggressive primary cutaneous B-cell lymphoma
 MONDO:0015819	indolent primary cutaneous B-cell lymphoma
+MONDO:0015821	mycosis fungoides and variants
 MONDO:0015822	acquired neutropenia
 MONDO:0015823	primary immunodeficiency due to a defect in adaptive immunity
 MONDO:0015828	uterovaginal malformation
@@ -128,9 +232,13 @@ MONDO:0015837	Unicervical bicornuate uterus
 MONDO:0015840	complete septate uterus
 MONDO:0015844	agenesis and aplasia of uterine body
 MONDO:0015845	uterine cervical aplasia and agenesis
+MONDO:0015846	syndromic uterovaginal malformation
 MONDO:0015852	excess breast volume or number
 MONDO:0015853	deficient breast volume or number
+MONDO:0015856	syndromic breast hypoplasia/aplasia
 MONDO:0015860	anomaly of puberty or/and menstrual cycle
+MONDO:0015872	giant adenofibroma of the breast
+MONDO:0015874	benign ductal tumor of breast
 MONDO:0015884	autosomal dominant hypohidrotic ectodermal dysplasia
 MONDO:0015902	major hypertriglyceridemia
 MONDO:0015915	cerebellar malformation
@@ -141,28 +249,44 @@ MONDO:0015930	respiratory malformation
 MONDO:0015932	non-syndromic urogenital tract malformation of female
 MONDO:0015933	non-syndromic urogenital tract malformation of male
 MONDO:0015934	non-syndromic urogenital tract malformation of male and female
+MONDO:0015950	inherited skin tumor
 MONDO:0015951	hereditary photodermatosis
 MONDO:0015961	genetic head and neck malformation
+MONDO:0015962	inherited renal tubular disease
 MONDO:0015967	monogenic diabetes
+MONDO:0015975	hyper-IgM syndrome with susceptibility to opportunistic infections
+MONDO:0015976	hyper-IgM syndrome without susceptibility to opportunistic infections
 MONDO:0015979	hereditary predisposition to infections
+MONDO:0016000	familial isolated hypoparathyroidism due to impaired PTH secretion
 MONDO:0016024	shoulder and thorax deformity-congenital heart disease syndrome
 MONDO:0016034	cleft lip with or without cleft palate
 MONDO:0016042	late-onset isolated ACTH deficiency
+MONDO:0016045	tetragametic chimerism
+MONDO:0016046	familial clubfoot with or without associated lower limb anomalies
 MONDO:0016049	congenital myopathy, Paradas type
 MONDO:0016054	cerebral malformation
 MONDO:0016061	immunodeficiency with factor H anomaly
 MONDO:0016072	anomaly of puberty or/and menstrual cycle of genetic origin
 MONDO:0016078	congenital systemic arteriovenous fistula
+MONDO:0016091	adult Krabbe disease
 MONDO:0016092	serous or mucinous cystadenoma of childhood
+MONDO:0016094	vaginal germ cell malignant tumor
 MONDO:0016099	overlap myositis
+MONDO:0016100	rippling muscle disease with myasthenia gravis
+MONDO:0016105	acquired skeletal muscle disease
+MONDO:0016108	autosomal dominant distal myopathy
+MONDO:0016109	autosomal recessive distal myopathy
 MONDO:0016114	bulbospinal muscular atrophy of childhood
 MONDO:0016115	bulbospinal muscular atrophy of adulthood
 MONDO:0016116	generalized bulbospinal muscular atrophy
 MONDO:0016121	congenital myotonia
 MONDO:0016123	muscular tumor
 MONDO:0016125	infectious, fungal or parasitic myopathy
+MONDO:0016139	qualitative or quantitative protein defects in neuromuscular diseases
 MONDO:0016141	qualitative or quantitative defects of alpha-sarcoglycan
 MONDO:0016143	qualitative or quantitative defects of gamma-sarcoglycan
+MONDO:0016146	caveolinopathy
+MONDO:0016147	qualitative or quantitative defects of dystrophin
 MONDO:0016149	qualitative or quantitative defects of merosin
 MONDO:0016150	qualitative or quantitative defects of integrin alpha-7
 MONDO:0016151	qualitative or quantitative defects of perlecan
@@ -172,6 +296,9 @@ MONDO:0016154	qualitative or quantitative defects of myotubularin
 MONDO:0016155	qualitative or quantitative defects of protein involved in O-glycosylation of alpha-dystroglycan
 MONDO:0016156	qualitative or quantitative defects of FKRP
 MONDO:0016157	qualitative or quantitative defects of fukutin
+MONDO:0016160	X-linked intellectual disability-epilepsy syndrome
+MONDO:0016163	autosomal dominant cerebellar ataxia type II
+MONDO:0016164	herpetiform pemphigus
 MONDO:0016165	genetic hypoparathyroidism
 MONDO:0016169	chronic acquired demyelinating polyneuropathy
 MONDO:0016170	chronic polyradiculoneuropathy
@@ -201,58 +328,185 @@ MONDO:0016198	qualitative or quantitative defects of plectin
 MONDO:0016199	qualitative or quantitative defects of protein SERCA1
 MONDO:0016200	qualitative or quantitative defects of glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase
 MONDO:0016201	qualitative or quantitative defects of myotilin
+MONDO:0016202	autosomal dominant rhegmatogenous retinal detachment
 MONDO:0016203	hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency
+MONDO:0016206	idiopathic uveal effusion syndrome
+MONDO:0016209	benign familial nocturnal alternating hemiplegia of childhood
+MONDO:0016211	non-papillary transitional cell carcinoma of the bladder
+MONDO:0016213	leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome
+MONDO:0016214	pulmonary fibrosis-hepatic hyperplasia-bone marrow hypoplasia syndrome
 MONDO:0016221	temporomandibular joint anomaly
+MONDO:0016224	autosomal dominant proximal spinal muscular atrophy
 MONDO:0016229	genetic vascular anomaly
 MONDO:0016230	simple vascular malformation
+MONDO:0016248	familial ovarian cancer
+MONDO:0016249	hereditary site-specific ovarian cancer syndrome
+MONDO:0016263	primitive neuroectodermal tumor of the corpus uteri
+MONDO:0016268	papillary carcinoma of the corpus uteri
+MONDO:0016269	high-grade neuroendocrine carcinoma of the corpus uteri
+MONDO:0016270	low-grade neuroendocrine tumor of the corpus uteri
 MONDO:0016271	adenoid cystic carcinoma of the corpus uteri
 MONDO:0016272	transitional cell carcinoma of the corpus uteri
+MONDO:0016273	malignant germ cell tumor of corpus uteri
 MONDO:0016302	isolated congenitally uncorrected transposition of the great arteries
 MONDO:0016303	congenitally uncorrected transposition of the great arteries with cardiac malformation
+MONDO:0016304	classic pantothenate kinase-associated neurodegeneration
+MONDO:0016305	atypical pantothenate kinase-associated neurodegeneration
+MONDO:0016306	Niemann-Pick disease type C, severe perinatal form
+MONDO:0016307	Niemann-Pick disease type C, severe early infantile neurologic onset
+MONDO:0016308	Niemann-Pick disease type C, late infantile neurologic onset
+MONDO:0016309	Niemann-Pick disease type C, juvenile neurologic onset
+MONDO:0016310	Niemann-Pick disease type C, adult neurologic onset
+MONDO:0016316	mucopolysaccharidosis type 2, attenuated form
 MONDO:0016319	congenital insensitivity to pain with hyperhidrosis
+MONDO:0016330	non-familial hypertrophic cardiomyopathy
+MONDO:0016332	hypertrophic cardiomyopathy due to intensive athletic training
+MONDO:0016338	non-familial dilated cardiomyopathy
+MONDO:0016348	non-genetic cardiac rhythm disease
 MONDO:0016352	idiopathic inherited hypercalciuria
 MONDO:0016360	marcothrombocytopenia with mitral valve insufficiency
+MONDO:0016361	isolated hereditary giant platelet disorder
+MONDO:0016371	combined hyperactive dysfunction syndrome of the cranial nerves
+MONDO:0016375	acquired peripheral movement disorder
 MONDO:0016376	confetti-like macular atrophy
 MONDO:0016382	hereditary poikiloderma
+MONDO:0016387	mitochondrial oxidative phosphorylation disorder
+MONDO:0016393	hyposmia-nasal and ocular hypoplasia-hypogonadotropic hypogonadism syndrome
 MONDO:0016408	permanent congenital hypothyroidism
 MONDO:0016409	primary congenital hypothyroidism
+MONDO:0016411	hypothyroidism due to deficient transcription factors involved in pituitary development or function
 MONDO:0016412	peripheral hypothyroidism
 MONDO:0016413	congenital hypothyroidism due to maternal intake of antithyroid drugs
+MONDO:0016414	hypotrichosis-intellectual disability, Lopes type
 MONDO:0016417	congenital ichthyosis-microcephalus-tetraplegia syndrome
+MONDO:0016418	multiple system atrophy, cerebellar type
 MONDO:0016428	multiple sclerosis variant
+MONDO:0016432	heart-hand syndrome
+MONDO:0016433	dysmorphism-short stature-deafness-disorder of sex development syndrome
+MONDO:0016434	acquired dermis elastic tissue disorder
 MONDO:0016437	late-onset focal dermal elastosis
 MONDO:0016438	linear focal dermal elastosis
+MONDO:0016447	white fibrous papulosis of the neck
 MONDO:0016449	mid-dermal elastolysis
+MONDO:0016450	autoimmune hemolytic anemia, cold type
 MONDO:0016454	Charcot-Marie-Tooth disease type 2B5
+MONDO:0016455	virus-associated trichodysplasia spinulosa
+MONDO:0016457	ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome
 MONDO:0016468	toxin-mediated infectious botulism
+MONDO:0016475	Beckwith-Wiedemann syndrome due to imprinting defect of 11p15
+MONDO:0016476	Beckwith-Wiedemann syndrome due to CDKN1C mutation
+MONDO:0016477	Beckwith-Wiedemann syndrome due to 11p15 microdeletion
+MONDO:0016478	Beckwith-Wiedemann syndrome due to 11p15 translocation/inversion
+MONDO:0016479	silver-Russell syndrome due to 7p11.2p13 microduplication
+MONDO:0016480	silver-Russell syndrome due to an imprinting defect of 11p15
+MONDO:0016481	silver-Russell syndrome due to 11p15 microduplication
+MONDO:0016482	silver-Russell syndrome due to maternal uniparental disomy of chromosome 11
+MONDO:0016490	hemoglobin C-beta-thalassemia syndrome
+MONDO:0016491	hemoglobin E-beta-thalassemia syndrome
+MONDO:0016493	variant of Guillain-Barre syndrome
+MONDO:0016494	regional variant of Guillain-Barre syndrome
+MONDO:0016495	functional variant of Guillain-Barre syndrome
+MONDO:0016496	pharyngeal-cervical-brachial variant of Guillain-Barre syndrome
+MONDO:0016497	paraparetic variant of Guillain-Barre syndrome
+MONDO:0016498	acute pure sensory neuropathy
 MONDO:0016503	congenital erosive and vesicular dermatosis
+MONDO:0016506	ectopic aldosterone-producing tumor
+MONDO:0016510	epibulbar lipodermoid-preauricular appendage-polythelia syndrome
 MONDO:0016511	infectious embryofetopathy
 MONDO:0016514	epidermolysis bullosa simplex with anodontia/hypodontia
+MONDO:0016515	Kallmann syndrome-heart disease syndrome
 MONDO:0016518	isolated punctate palmoplantar keratoderma
 MONDO:0016520	isolated Klippel-Feil syndrome
 MONDO:0016524	congenital vascular bone syndrome
 MONDO:0016531	digestive duplication
+MONDO:0016533	apolipoprotein A-II amyloidosis
 MONDO:0016534	infundibulo-neurohypophysitis
 MONDO:0016536	autosomal recessive lymphoproliferative disease
+MONDO:0016539	atypical hypotonia-cystinuria syndrome
 MONDO:0016540	congenital secondary polycythemia
 MONDO:0016541	acquired secondary polycythemia
+MONDO:0016547	Beckwith-Wiedemann syndrome due to NSD1 mutation
+MONDO:0016549	primary megaureter, adult-onset form
 MONDO:0016550	congenital primary megaureter, obstructed form
 MONDO:0016551	congenital primary megaureter, refluxing form
 MONDO:0016552	congenital primary megaureter, nonrefluxing and unobstructed form
 MONDO:0016555	transient congenital hypothyroidism due to maternal factor
 MONDO:0016556	transient congenital hypothyroidism due to neonatal factor
+MONDO:0016560	ptosis-syndactyly-learning difficulties syndrome
+MONDO:0016562	progressive supranuclear palsy-pure akinesia with gait freezing syndrome
+MONDO:0016563	progressive supranuclear palsy-corticobasal syndrome
+MONDO:0016564	progressive supranuclear palsy-progressive non-fluent aphasia syndrome
+MONDO:0016565	syndromic genetic obesity
+MONDO:0016579	dominant hypophosphatemia with nephrolithiasis or osteoporosis
 MONDO:0016589	progressive cerebello-cerebral atrophy
 MONDO:0016592	non-hereditary degenerative ataxia
+MONDO:0016598	autosomal recessive secondary polycythemia not associated with VHL gene
+MONDO:0016599	autosomal dominant secondary polycythemia
+MONDO:0016600	acute neonatal citrullinemia type I
+MONDO:0016601	adult-onset citrullinemia type I
 MONDO:0016610	idiopathic eosinophilic myositis
+MONDO:0016614	autosomal recessive ataxia due to PEX10 deficiency
 MONDO:0016617	rheumatoid factor-negative juvenile idiopathic arthritis with anti-nuclear antibodies
 MONDO:0016618	rheumatoid factor-negative juvenile idiopathic arthritis without anti-nuclear antibodies
 MONDO:0016624	inherited deficiency anemia
+MONDO:0016625	acquired deficiency anemia
+MONDO:0016630	isolated delta-storage pool disease
+MONDO:0016638	familial hypodysfibrinogenemia
+MONDO:0016646	autosomal dominant optic atrophy and peripheral neuropathy
+MONDO:0016647	autosomal recessive Stickler syndrome
 MONDO:0016651	maternal uniparental disomy of chromosome 1
+MONDO:0016656	7q31 microdeletion syndrome
 MONDO:0016661	infantile onset panniculitis with uveitis and systemic granulomatosis
+MONDO:0016666	unexplained long-lasting fever/inflammatory syndrome
+MONDO:0016671	sickle cell-hemoglobin E disease syndrome
+MONDO:0016676	recurrent infections-inflammatory syndrome due to zinc metabolism disorder syndrome
+MONDO:0016678	maternal disease-related embryofetopathy
+MONDO:0016697	low grade ependymoma
+MONDO:0016701	oligoastrocytic tumor
+MONDO:0016708	embryonal tumor of neuroepithelial tissue
+MONDO:0016721	pineal tumor of neuroepithelial tissue
+MONDO:0016725	pineal parenchymal tumor of intermediate differenciation
+MONDO:0016726	neuronal tumor
+MONDO:0016731	desmoplastic infantile astrocytoma/ganglioglioma
+MONDO:0016738	primary germ cell tumor of central nervous system
+MONDO:0016744	primary melanocytic tumor of central nervous system
 MONDO:0016745	diffuse leptomeningeal melanocytosis
+MONDO:0016752	benign peripheral nerve sheath tumor
+MONDO:0016756	inherited nervous system cancer-predisposing syndrome
+MONDO:0016780	paternal 14q32.2 microdeletion syndrome
+MONDO:0016781	maternal 14q32.2 microdeletion syndrome
+MONDO:0016782	paternal 14q32.2 hypomethylation syndrome
+MONDO:0016783	maternal 14q32.2 hypermethylation syndrome
+MONDO:0016789	pyruvate metabolism disorder
+MONDO:0016790	tricarboxylic acid cycle disorder
 MONDO:0016794	maternally-inherited mitochondrial myopathy
+MONDO:0016796	mitochondrial DNA depletion syndrome, encephalomyopathic form
+MONDO:0016797	multiple mitochondrial DNA deletion syndrome
+MONDO:0016800	mitochondrial membrane transport disorder
+MONDO:0016801	mitochondrial substrate carrier disorder
+MONDO:0016802	mitochondrial protein import disorder
+MONDO:0016803	unspecified inborn mitochondrial disorder
+MONDO:0016805	isolated oxidative phosphorylation complex disorder
+MONDO:0016811	renal tubulopathy-encephalopathy-liver failure syndrome
+MONDO:0016815	Leigh syndrome with leukodystrophy
+MONDO:0016816	Leigh syndrome with nephrotic syndrome
+MONDO:0016818	Mikati-Najjar-Sahli syndrome
+MONDO:0016819	Moebius syndrome-axonal neuropathy-hypogonadotropic hypogonadism syndrome
+MONDO:0016827	myopathy-growth delay-intellectual disability-hypospadias syndrome
+MONDO:0016832	distal 7q11.23 microduplication syndrome
+MONDO:0016835	14q11.2 microduplication syndrome
+MONDO:0016845	21q22.11q22.12 microdeletion syndrome
 MONDO:0016851	maternal uniparental disomy of chromosome X
 MONDO:0016852	paternal uniparental disomy of chromosome X
+MONDO:0016855	Mowat-Wilson syndrome due to monosomy 2q22
+MONDO:0016856	Mowat-Wilson syndrome due to a ZEB2 point mutation
+MONDO:0016857	blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome
+MONDO:0016858	blepharophimosis-epicanthus inversus-ptosis due to a point mutation syndrome
+MONDO:0016859	blepharophimosis-epicanthus inversus-ptosis due to copy number variations
+MONDO:0016860	familial adenomatous polyposis due to 5q22.2 microdeletion
+MONDO:0016863	Okihiro syndrome due to 20q13 microdeletion
+MONDO:0016864	Okihiro syndrome due to a point mutation
+MONDO:0016865	Kleefstra syndrome due to a point mutation
 MONDO:0016866	partial deletion of chromosome 1
 MONDO:0016867	partial deletion of chromosome 2
 MONDO:0016868	partial deletion of chromosome 3
@@ -274,12 +528,15 @@ MONDO:0016884	partial deletion of the short arm of chromosome 2
 MONDO:0016885	partial deletion of the short arm of chromosome 3
 MONDO:0016887	partial deletion of the short arm of chromosome 5
 MONDO:0016888	partial deletion of the short arm of chromosome 6
+MONDO:0016892	partial deletion of the short arm of chromosome 10
 MONDO:0016893	partial deletion of the short arm of chromosome 11
 MONDO:0016894	partial deletion of the short arm of chromosome 16
 MONDO:0016897	partial deletion of the short arm of chromosome 19
+MONDO:0016899	Duchenne and Becker muscular dystrophy
 MONDO:0016902	partial deletion of the long arm of chromosome 3
 MONDO:0016904	partial deletion of the long arm of chromosome 5
 MONDO:0016908	partial monosomy of the long arm of chromosome 9
+MONDO:0016909	partial monosomy of the long arm of chromosome 10
 MONDO:0016914	partial deletion of the long arm of chromosome 16
 MONDO:0016915	partial deletion of the long arm of chromosome 17
 MONDO:0016917	partial deletion of the long arm of chromosome 19
@@ -300,29 +557,60 @@ MONDO:0016960	partial trisomy of the long arm of chromosome 9
 MONDO:0016961	partial duplication of the long arm of chromosome 10
 MONDO:0016970	partial trisomy of the long arm of chromosome 20
 MONDO:0016972	partial duplication of the long arm of chromosome 22
+MONDO:0016977	moderately-differentiated thymic neuroendocrine carcinoma
 MONDO:0016979	MRCS syndrome
+MONDO:0016980	ATR-X-related syndrome
+MONDO:0016981	infantile spams-psychomotor retardation-progressive brain atrophy-basal ganglia disease syndrome
+MONDO:0016993	generalized peeling skin syndrome type C
+MONDO:0016995	familial multiple meningioma
 MONDO:0017003	partial deletion of chromosome X
 MONDO:0017004	partial monosomy of the short arm of chromosome X
 MONDO:0017007	partial deletion of the long arm of chromosome X
 MONDO:0017008	partial duplication of chromosome X
 MONDO:0017012	partial duplication of the short arm of chromosome 1
+MONDO:0017019	interstitial lung disease specific to infancy
+MONDO:0017026	interstitial lung disease specific to adulthood
+MONDO:0017027	primary interstitial lung disease specific to adulthood
+MONDO:0017030	interstitial lung disease in childhood and adulthood
+MONDO:0017031	primary interstitial lung disease in childhood and adulthood
+MONDO:0017034	secondary interstitial lung disease in childhood and adulthood
 MONDO:0017036	Langerhans cell histiocytosis in childhood and adulthood
+MONDO:0017039	drug or radiation exposure-related interstitial lung disease
+MONDO:0017040	exposure-related interstitial lung disease
+MONDO:0017044	adult familial nephronophthisis-spastic quadriparesia syndrome
+MONDO:0017049	hypomyelination neuropathy-arthrogryposis syndrome
 MONDO:0017051	classic maple syrup urine disease
 MONDO:0017054	thiamine-responsive maple syrup urine disease
+MONDO:0017056	DYRK1A-related intellectual disability syndrome due to 21q22.13q22.2 microdeletion
+MONDO:0017057	hereditary thrombocytopenia with normal platelets
 MONDO:0017059	neural tube closure defect
+MONDO:0017063	total spina bifida aperta
+MONDO:0017064	thoracolumbosacral spina bifida aperta
+MONDO:0017065	lumbosacral spina bifida aperta
+MONDO:0017067	cervicothoracic spina bifida aperta
+MONDO:0017068	upper thoracic spina bifida aperta
 MONDO:0017070	total spina bifida cystica
 MONDO:0017071	thoracolumbosacral spina bifida cystica
 MONDO:0017072	lumbosacral spina bifida cystica
 MONDO:0017073	cervical spina bifida cystica
 MONDO:0017074	cervicothoracic spina bifida cystica
 MONDO:0017075	upper thoracic spina bifida cystica
+MONDO:0017076	posterior meningocele
+MONDO:0017082	basal encephalocele
 MONDO:0017084	leptomyelolipoma
 MONDO:0017087	neurenteric cyst
 MONDO:0017088	isolated amyelia
 MONDO:0017089	isolated megalencephaly
 MONDO:0017090	midline cerebral malformation
 MONDO:0017093	unilateral focal polymicrogyria
+MONDO:0017095	isolated focal cortical dysplasia type I
+MONDO:0017096	isolated focal cortical dysplasia type Ia
+MONDO:0017097	isolated focal cortical dysplasia type Ib
+MONDO:0017098	isolated focal cortical dysplasia type Ic
+MONDO:0017100	neutropenia-monocytopenia-deafness syndrome
 MONDO:0017101	isolated focal cortical dysplasia type IIa
+MONDO:0017102	isolated focal cortical dysplasia type IIb
+MONDO:0017103	encephaloclastic disorder
 MONDO:0017104	central nervous system cystic malformation
 MONDO:0017105	glioependymal/ependymal cyst
 MONDO:0017107	isolated cerebellar vermis agenesis
@@ -333,19 +621,47 @@ MONDO:0017111	isolated Dandy-Walker malformation without hydrocephalus
 MONDO:0017113	isolated bilateral hemispheric cerebellar hypoplasia
 MONDO:0017114	global cerebellar malformation
 MONDO:0017116	congenital communicating hydrocephalus
+MONDO:0017127	inherited soft tissue tumor
+MONDO:0017128	inherited digestive tract tumor
+MONDO:0017129	inherited cardiac tumor
 MONDO:0017131	genetic cardiac anomaly
+MONDO:0017132	hereditary ATTR amyloidosis
+MONDO:0017144	alpha-thalassemia and related diseases
+MONDO:0017145	beta-thalassemia and related diseases
+MONDO:0017146	sickle cell disease and related diseases
+MONDO:0017164	hemolytic disease of the newborn with Kell alloimmunization
+MONDO:0017167	malignant epithelial tumor of salivary glands
+MONDO:0017171	mucopolysaccharidosis type 6, rapidly progressing
+MONDO:0017172	mucopolysaccharidosis type 6, slowly progressing
+MONDO:0017173	non-syndromic male infertility due to sperm motility disorder
+MONDO:0017177	hemihyperplasia-multiple lipomatosis syndrome
+MONDO:0017180	10q22.3q23.3 microduplication syndrome
 MONDO:0017186	diazoxide-resistant hyperinsulinism
 MONDO:0017187	diazoxide-resistant focal hyperinsulinism due to SUR1 deficiency
 MONDO:0017188	diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency
+MONDO:0017191	sporadic pheochromocytoma
+MONDO:0017192	sporadic secreting paraganglioma
+MONDO:0017193	symptomatic form of Coffin-Lowry syndrome in female carriers
 MONDO:0017205	primary oculocerebral lymphoma
 MONDO:0017209	infectious posterior uveitis
 MONDO:0017211	infectious panuveitis
 MONDO:0017212	paraneoplastic uveitis
 MONDO:0017217	visceral calciphylaxis
+MONDO:0017220	laryngotracheoesophageal cleft type 0
+MONDO:0017221	Pelizaeus-Merzbacher disease, connatal form
 MONDO:0017223	Pelizaeus-Merzbacher disease, transitional form
+MONDO:0017224	Pelizaeus-Merzbacher disease in female carriers
+MONDO:0017225	null syndrome
+MONDO:0017228	autoimmune pancreatitis type 2
+MONDO:0017229	distal monosomy 12p
+MONDO:0017230	autosomal semi-dominant severe lipodystrophic laminopathy
 MONDO:0017232	recessive intellectual disability-motor dysfunction-multiple joint contractures syndrome
+MONDO:0017234	inherited prion disease
+MONDO:0017235	familial omphalocele syndrome with facial dysmorphism
 MONDO:0017238	hemoglobinopathy Toms River
 MONDO:0017239	familial progressive hyper- and hypopigmentation
+MONDO:0017240	acrodysostosis with multiple hormone resistance
+MONDO:0017241	AP4-related intellectual disability and spastic paraplegia
 MONDO:0017243	bullous diffuse cutaneous mastocytosis
 MONDO:0017244	pseudoxanthomatous diffuse cutaneous mastocytosis
 MONDO:0017245	intralobar congenital pulmonary sequestration
@@ -359,7 +675,12 @@ MONDO:0017252	congenital pulmonary airway malformation type 4
 MONDO:0017257	idiopathic posterior uveitis
 MONDO:0017262	inherited non-syndromic ichthyosis
 MONDO:0017263	inherited ichthyosis syndromic form
+MONDO:0017270	autosomal ichthyosis syndrome
 MONDO:0017277	partial deletion of chromosome 12
+MONDO:0017281	renal caliceal diverticuli-deafness syndrome
+MONDO:0017283	DeSanto-Shinawi Syndrome due to 10p11.21p12.31 microdeletion
+MONDO:0017284	Xp22.13p22.2 duplication syndrome
+MONDO:0017289	fetal lung interstitial tumor
 MONDO:0017294	glycerol kinase deficiency, infantile form
 MONDO:0017295	glycerol kinase deficiency, juvenile form
 MONDO:0017296	glycerol kinase deficiency, adult form
@@ -367,16 +688,35 @@ MONDO:0017299	acute annular outer retinopathy
 MONDO:0017301	pericardial and diaphragmatic defect
 MONDO:0017302	qualitative or quantitative defects of troponin
 MONDO:0017303	qualitative or quantitative defects of tropomyosin
+MONDO:0017310	Marfan and Marfan-related disorder
+MONDO:0017313	disorder of folate metabolism and transport
+MONDO:0017321	pili torti-onychodysplasia syndrome
+MONDO:0017322	disorders of vitamin D metabolism
+MONDO:0017328	non-central nervous system-localized embryonal carcinoma
+MONDO:0017330	malignancy diagnosed during pregnancy
 MONDO:0017335	microtriplication 11q24.1
 MONDO:0017336	fatal infantile hypertrophic cardiomyopathy due to mitochondrial complex I deficiency
+MONDO:0017339	exfoliative ichthyosis
+MONDO:0017341	virus associated tumor
+MONDO:0017342	Epstein-Barr virus-related tumor
 MONDO:0017344	Epstein-Barr virus-associated carcinoma
+MONDO:0017345	Epstein-Barr virus-associated mesenchymal tumor
 MONDO:0017348	lymphoepithelial-like carcinoma
 MONDO:0017353	neonatal glycine encephalopathy
 MONDO:0017354	infantile glycine encephalopathy
+MONDO:0017355	inborn disorder of proline metabolism
+MONDO:0017357	transient hyperammonemia of the newborn
 MONDO:0017365	hereditary acrokeratotic poikiloderma, Weary type
+MONDO:0017382	familial clubfoot due to 5q31 microdeletion
+MONDO:0017383	familial clubfoot due to PITX1 point mutation
+MONDO:0017388	celiac trunk compression syndrome
 MONDO:0017389	tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria
 MONDO:0017396	toxic dermatosis
 MONDO:0017397	constitutional dyserythropoietic anemia
+MONDO:0017401	familial isolated arrhythmogenic ventricular dysplasia, left dominant form
+MONDO:0017402	familial isolated arrhythmogenic ventricular dysplasia, biventricular form
+MONDO:0017403	familial isolated arrhythmogenic ventricular dysplasia, right dominant form
+MONDO:0017406	hypogonadotropic hypogonadism-severe microcephaly-sensorineural hearing loss-dysmorphism syndrome
 MONDO:0017407	deficiency in anterior pituitary function - variable immunodeficiency syndrome
 MONDO:0017420	intercalary limb defects
 MONDO:0017421	non-syndromic terminal limb defects
@@ -411,6 +751,8 @@ MONDO:0017486	radial hemimelia, unilateral
 MONDO:0017487	radial hemimelia, bilateral
 MONDO:0017488	ulnar hemimelia, bilateral
 MONDO:0017489	ulnar hemimelia, unilateral
+MONDO:0017490	tibial hemimelia, unilateral
+MONDO:0017491	tibial hemimelia, bilateral
 MONDO:0017492	fibular hemimelia, unilateral
 MONDO:0017493	fibular hemimelia, bilateral
 MONDO:0017496	congenital absence of thigh and lower leg with foot present, unilateral
@@ -431,12 +773,29 @@ MONDO:0017515	brachydactyly of fingers, unilateral
 MONDO:0017516	brachydactyly of fingers, bilateral
 MONDO:0017517	brachydactyly of toes, unilateral
 MONDO:0017518	brachydactyly of toes, bilateral
+MONDO:0017519	symbrachydactyly of hand and foot, unilateral
+MONDO:0017520	symbrachydactyly of hand and foot, bilateral
 MONDO:0017521	hyperphalangy, unilateral
 MONDO:0017522	hyperphalangy, bilateral
+MONDO:0017523	polydactyly of a biphalangeal thumb, unilateral
+MONDO:0017524	polydactyly of a biphalangeal thumb, bilateral
+MONDO:0017525	polydactyly of a triphalangeal thumb, unilateral
+MONDO:0017526	polydactyly of a triphalangeal thumb, bilateral
+MONDO:0017527	polydactyly of an index finger, unilateral
+MONDO:0017528	polydactyly of an index finger, bilateral
+MONDO:0017529	polysyndactyly, unilateral
+MONDO:0017530	polysyndactyly, bilateral
+MONDO:0017531	postaxial polydactyly type A, unilateral
+MONDO:0017532	postaxial polydactyly type A, bilateral
+MONDO:0017533	postaxial polydactyly type B, unilateral
+MONDO:0017534	postaxial polydactyly type B, bilateral
 MONDO:0017535	central polydactyly of fingers, unilateral
 MONDO:0017536	central polydactyly of fingers, bilateral
 MONDO:0017537	Preaxial polydactyly of toes, unilateral
 MONDO:0017538	Preaxial polydactyly of toes, bilateral
+MONDO:0017543	zygodactyly type 2
+MONDO:0017544	zygodactyly type 3
+MONDO:0017545	zygodactyly type 4
 MONDO:0017546	congenital vertical talus, unilateral
 MONDO:0017547	congenital vertical talus, bilateral
 MONDO:0017548	humero-radio-ulnar synostosis, unilateral
@@ -445,6 +804,8 @@ MONDO:0017550	humero-radial synostosis, unilateral
 MONDO:0017551	humero-radial synostosis, bilateral
 MONDO:0017552	humero-ulnar synostosis, unilateral
 MONDO:0017553	humero-ulnar synostosis, bilateral
+MONDO:0017554	radio-ulnar synostosis, unilateral
+MONDO:0017555	radio-ulnar synostosis, bilateral
 MONDO:0017556	Madelung deformity, unilateral
 MONDO:0017557	Madelung deformity, bilateral
 MONDO:0017558	congenital elbow dislocation, unilateral
@@ -456,8 +817,16 @@ MONDO:0017564	macrodactyly of fingers, unilateral
 MONDO:0017565	macrodactyly of fingers, bilateral
 MONDO:0017566	macrodactyly of toes, unilateral
 MONDO:0017567	macrodactyly of toes, bilateral
+MONDO:0017573	46,XX disorder of sex development-anorectal anomalies syndrome
+MONDO:0017578	disorder of thiamine metabolism and transport
+MONDO:0017580	11p15.4 microduplication syndrome
+MONDO:0017581	familial infantile gigantism
+MONDO:0017583	mirror polydactyly-vertebral segmentation-limbs defects syndrome
+MONDO:0017584	Sagliker syndrome
+MONDO:0017587	onychomatricoma
 MONDO:0017588	nail tumor
 MONDO:0017589	follicular cholangitis and pancreatitis
+MONDO:0017591	combined pulmonary fibrosis-emphysema syndrome
 MONDO:0017595	aggressive B-cell non-Hodgkin lymphoma
 MONDO:0017601	diffuse large B-cell lymphoma with chronic inflammation
 MONDO:0017616	X-linked intellectual disability, Schutz type
@@ -466,81 +835,258 @@ MONDO:0017619	congenital sucrase-isomaltase deficiency with minimal starch toler
 MONDO:0017620	congenital sucrase-isomaltase deficiency without starch intolerance
 MONDO:0017621	congenital sucrase-isomaltase deficiency with starch and lactose intolerance
 MONDO:0017622	congenital sucrase-isomaltase deficiency without sucrose intolerance
+MONDO:0017626	familial primary hypomagnesemia with normocalcuria
 MONDO:0017629	sodium channelopathy-related small fiber neuropathy
+MONDO:0017636	hemiparkinsonism-hemiatrophy syndrome
+MONDO:0017642	intellectual disability-microcephaly-phalangeal-facial abnormalities syndrome
+MONDO:0017649	hemidystonia-hemiatrophy syndrome
 MONDO:0017651	primary myoclonus
 MONDO:0017656	motor stereotypies
 MONDO:0017659	sporadic hyperekplexia
 MONDO:0017667	isolated diffuse palmoplantar keratoderma
+MONDO:0017670	autosomal dominant diffuse mutilating palmoplantar keratoderma
 MONDO:0017672	focal palmoplantar keratoderma
 MONDO:0017673	isolated focal palmoplantar keratoderma
 MONDO:0017676	marginal papular palmoplantar keratoderma
 MONDO:0017681	erythrokeratoderma variabilis progressiva
 MONDO:0017686	inborn aminoacylase deficiency
+MONDO:0017687	disorder of neutral amino acid transport
+MONDO:0017688	disorder of glycolysis
+MONDO:0017695	glycogen storage disease due to glycogen branching enzyme deficiency, progressive hepatic form
+MONDO:0017696	glycogen storage disease due to glycogen branching enzyme deficiency, non progressive hepatic form
+MONDO:0017697	glycogen storage disease due to glycogen branching enzyme deficiency, fatal perinatal neuromuscular form
+MONDO:0017698	glycogen storage disease due to glycogen branching enzyme deficiency, congenital neuromuscular form
+MONDO:0017700	glycogen storage disease due to glycogen branching enzyme deficiency, childhood neuromuscular form
+MONDO:0017701	glycogen storage disease due to glycogen branching enzyme deficiency, adult neuromuscular form
+MONDO:0017703	disorder of glyoxylate metabolism
+MONDO:0017706	disorder of carbohydrate transmembrane transport and absorption
+MONDO:0017709	disorder of lipid absorption and transport
 MONDO:0017710	congenital systemic veins anomaly
+MONDO:0017713	disorder of fatty acid oxidation and ketogenesis
+MONDO:0017716	disorder of carnitine cycle and carnitine transport
+MONDO:0017721	Sandhoff disease, infantile form
+MONDO:0017722	Sandhoff disease, juvenile form
+MONDO:0017723	Sandhoff disease, adult form
+MONDO:0017724	Tay-Sachs disease, b variant, infantile form
+MONDO:0017725	Tay-Sachs disease, b variant, juvenile form
+MONDO:0017726	Tay-Sachs disease, b variant, adult form
 MONDO:0017727	fixed subaortic stenosis
 MONDO:0017729	metachromatic leukodystrophy, late infantile form
 MONDO:0017730	metachromatic leukodystrophy, adult form
 MONDO:0017732	alpha-mannosidosis, infantile form
+MONDO:0017739	disorder of lysosomal-related organelles
+MONDO:0017740	disorder of protein N-glycosylation
+MONDO:0017741	disorder of protein O-glycosylation
+MONDO:0017742	disorder of O-xylosylglycan synthesis
+MONDO:0017743	disorder of O-N-acetylgalactosaminylglycan synthesis
+MONDO:0017744	disorder of O-xylosyl/N-acetylgalactosaminylglycan synthesis
+MONDO:0017745	disorder of O-mannosylglycan synthesis
+MONDO:0017747	disorder of fucoglycosan synthesis
+MONDO:0017748	inborn disorder of glycosphingolipid and glycosylphosphatidylinositol anchor glycosylation
+MONDO:0017749	disorder of multiple glycosylation
 MONDO:0017750	defect in conserved oligomeric Golgi complex
 MONDO:0017752	defect in V-ATPase
+MONDO:0017755	inborn disorder of bilirubin metabolism
+MONDO:0017756	disorder of pterin metabolism
+MONDO:0017757	disorder of metabolite absorption and transport
+MONDO:0017758	disorder of vitamin and non-protein cofactor absorption and transport
+MONDO:0017760	disorder of other vitamins and cofactors metabolism and transport
+MONDO:0017765	disorder of magnesium transport
+MONDO:0017766	disorder of manganese transport
 MONDO:0017769	acquired immunodeficiency
+MONDO:0017772	oral erosive lichen
+MONDO:0017780	20p13 microdeletion syndrome
+MONDO:0017781	12p12.1 microdeletion syndrome
 MONDO:0017782	developmental and speech delay due to SOX5 deficiency
+MONDO:0017785	PENS syndrome
+MONDO:0017788	contractures - webbed neck - micrognathia - hypoplastic nipples syndrome
 MONDO:0017789	idiopathic linear interstitial keratitis
+MONDO:0017793	marfanoid habitus-inguinal hernia-advanced bone age syndrome
+MONDO:0017798	Spigelian hernia-cryptorchidism syndrome
+MONDO:0017800	pseudo-Meigs syndrome
+MONDO:0017801	atypical Meigs syndrome
+MONDO:0017803	primary progressive apraxia of speech
+MONDO:0017804	autosomal recessive leukoencephalopathy-ischemic stroke-retinitis pigmentosa syndrome
+MONDO:0017805	intellectual disability-hypotonia-brachycephaly-pyloric stenosis-cryptorchidism syndrome
+MONDO:0017808	duplication of the pituitary gland
+MONDO:0017809	parkinsonism due to ATP13A2 deficiency
+MONDO:0017812	segmental progressive overgrowth syndrome with fibroadipose hyperplasia
 MONDO:0017817	primary localized amyloidosis
+MONDO:0017818	lethal arteriopathy syndrome due to fibulin-4 deficiency
+MONDO:0017819	atypical dentin dysplasia due to SMOC2 deficiency
 MONDO:0017828	primary renal tubular acidosis
+MONDO:0017829	autosomal dominant proximal renal tubular acidosis
+MONDO:0017830	severe Canavan disease
 MONDO:0017831	mild Canavan disease
+MONDO:0017833	primary hypereosinophilic syndrome
+MONDO:0017834	secondary hypereosinophilic syndrome
+MONDO:0017835	lymphocytic hypereosinophilic syndrome
+MONDO:0017837	multiple sclerosis-ichthyosis-factor VIII deficiency syndrome
 MONDO:0017839	classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, salt wasting form
 MONDO:0017840	classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, simple virilizing form
+MONDO:0017847	autosomal recessive spastic ataxia
 MONDO:0017855	T-B- severe combined immunodeficiency
+MONDO:0017857	spina bifida-hypospadias syndrome
+MONDO:0017860	methanol poisoning
+MONDO:0017862	paraquat poisoning
+MONDO:0017867	distal 17p13.1 microdeletion syndrome
 MONDO:0017868	diencephalic-mesencephalic junction dysplasia
 MONDO:0017869	chondroectodermal dysplasia with night blindness
+MONDO:0017871	bilateral massive adrenal hemorrhage
+MONDO:0017891	inherited renal cancer-predisposing syndrome
+MONDO:0017900	autosomal recessive Mendelian susceptibility to mycobacterial diseases due to complete IFNgammaR2 deficiency
+MONDO:0017901	autosomal recessive Mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR1 deficiency
+MONDO:0017902	autosomal recessive Mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR2 deficiency
+MONDO:0017903	autosomal dominant mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR2 deficiency
 MONDO:0017912	X-linked pure spastic paraplegia
+MONDO:0017913	pure or complex hereditary spastic paraplegia
 MONDO:0017914	pure or complex autosomal dominant spastic paraplegia
 MONDO:0017915	pure or complex autosomal recessive spastic paraplegia
 MONDO:0017916	pure or complex X-linked spastic paraplegia
 MONDO:0017917	maternally-inherited spastic paraplegia
+MONDO:0017922	deafness-onychodystrophy syndrome
+MONDO:0017924	central nervous system calcification-deafness-tubular acidosis-anemia syndrome
+MONDO:0017925	T-cell immunodeficiency with epidermodysplasia verruciformis
+MONDO:0017926	multiple paragangliomas associated with polycythemia
 MONDO:0017930	mixed sclerosing bone dystrophy with extra-skeletal manifestations
+MONDO:0017931	hereditary inclusion body myopathy type 4
+MONDO:0017932	muscular hypertrophy-hepatomegaly-polyhydramnios syndrome
+MONDO:0017933	hypertrophic cardiomyopathy and renal tubular disease due to mitochondrial DNA mutation
+MONDO:0017934	aphonia-deafness-retinal dystrophy-bifid halluces-intellectual disability syndrome
 MONDO:0017936	benign Samaritan congenital myopathy
+MONDO:0017937	autosomal dominant intermediate Charcot-Marie-Tooth disease with neuropathic pain
+MONDO:0017939	minicore myopathy
 MONDO:0017942	Hendra virus infection
+MONDO:0017950	microcephalic primordial dwarfism
+MONDO:0017954	pyogenic autoinflammatory syndrome
+MONDO:0017955	granulomatous autoinflammatory syndrome
+MONDO:0017961	46,XX disorder of gonadal development
+MONDO:0017962	46,XX disorder of sex development induced by fetoplacental androgens excess
+MONDO:0017963	46,XX disorder of sex development induced by endogenous maternal-derived androgen
+MONDO:0017964	46,XX disorder of sex development induced by exogenous maternal-derived androgen
+MONDO:0017966	46,XY disorder of gonadal development
+MONDO:0017969	46,XY disorder of sex development of endocrine origin
 MONDO:0017972	classic congenital lipoid adrenal hyperplasia due to STAR deficency
 MONDO:0017973	non-classic congenital lipoid adrenal hyperplasia due to STAR deficency
+MONDO:0017974	46,XY disorder of sex development induced by maternal-exposure to endocrine disruptors
 MONDO:0017983	humero-radio-ulnar synostosis
+MONDO:0017986	disorder of plasmalogens biosynthesis
 MONDO:0017993	cerebral sinovenous thrombosis
+MONDO:0017994	severe early-onset obesity-insulin resistance syndrome due to SH2B1 deficiency
+MONDO:0017995	spondylocostal dysostosis-hypospadias-intellectual disability syndrome
+MONDO:0017997	telecanthus-hypertelorism-strabismus-pes cavus syndrome
+MONDO:0018000	hereditary thrombocytosis with transverse limb defect
+MONDO:0018001	inverse Klippel-Trenaunay syndrome
 MONDO:0018003	limbic encephalitis with DPP6 antibodies
+MONDO:0018004	acute megakaryoblastic leukemia without down syndrome
+MONDO:0018005	spastic paraplegia-Paget disease of bone syndrome
+MONDO:0018006	adult-onset distal myopathy due to VCP mutation
+MONDO:0018007	mosaic genome-wide paternal uniparental disomy
 MONDO:0018008	idiopathic giant cell myocarditis
 MONDO:0018009	non-hypoproteinemic hypertrophic gastropathy
 MONDO:0018010	juvenile idiopathic inflammatory myopathy
 MONDO:0018013	non-immunoglobulin-mediated membranoproliferative glomerulonephritis
+MONDO:0018016	classic neuroendocrine tumor of appendix
+MONDO:0018021	hypotrichosis-deafness syndrome
+MONDO:0018022	hemoglobin Lepore-beta-thalassemia syndrome
+MONDO:0018095	Weaver-Williams syndrome
+MONDO:0018107	idiopathic recurrent and disabling cutaneous herpes
+MONDO:0018108	idiopathic disseminated cytomegalovirus infection
+MONDO:0018110	lethal idiopathic viral infection
 MONDO:0018111	idiopathic severe pneumococcemia
 MONDO:0018113	isolated plagiocephaly
 MONDO:0018114	isolated brachycephaly
+MONDO:0018117	disorder of phospholipids, sphingolipids and fatty acids biosynthesis
+MONDO:0018121	mitochondrial DNA maintenance syndrome
+MONDO:0018122	digital anomalies-intellectual disability-short stature syndrome
+MONDO:0018123	intellectual disability-obesity-brain malformations-facial dysmorphism syndrome
+MONDO:0018125	focal epilepsy-intellectual disability-cerebro-cerebellar malformation
+MONDO:0018127	16q24.1 microdeletion syndrome
+MONDO:0018128	phalangeal microgeodic syndrome
+MONDO:0018131	neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome due to 9q21 microdeletion
+MONDO:0018134	disorder of melanin metabolism
+MONDO:0018141	pyruvate carboxylase deficiency, infantile form
+MONDO:0018142	pyruvate carboxylase deficiency, severe neonatal type
+MONDO:0018143	pyruvate carboxylase deficiency, benign type
 MONDO:0018144	congenital myasthenic syndromes with glycosylation defect
 MONDO:0018145	congenital retinal arteriovenous communication
+MONDO:0018148	vasoproliferative tumor of retina
+MONDO:0018156	3q26q27 microdeletion syndrome
+MONDO:0018161	non-hereditary retinoblastoma
+MONDO:0018162	neurometabolic disorder due to serine deficiency
+MONDO:0018168	primary non-essential cutis verticis gyrata
+MONDO:0018173	acute opioid poisoning
 MONDO:0018185	congenital anomaly of the great veins
+MONDO:0018187	genetic syndromic Pierre Robin syndrome
+MONDO:0018188	genetic intestinal polyposis
+MONDO:0018189	autosomal recessive cerebellar ataxia - pyramidal signs - nystagmus - oculomotor apraxia syndrome
+MONDO:0018191	tumor of testis and paratestis
 MONDO:0018192	paratesticular adenocarcinoma
+MONDO:0018197	mitochondrial DNA depletion syndrome, hepatocerebrorenal form
+MONDO:0018202	gonadal germ cell tumor
+MONDO:0018203	LMNA-related cardiocutaneous progeria syndrome
 MONDO:0018206	childhood-onset autosomal recessive myopathy with external ophthalmoplegia
+MONDO:0018207	2p13.2 microdeletion syndrome
+MONDO:0018208	neurofibromatosis type 1 due to NF1 mutation or intragenic deletion
+MONDO:0018209	Alexander disease type I
+MONDO:0018210	Alexander disease type II
+MONDO:0018212	familial cervical artery dissection
+MONDO:0018217	Koolen-de Vries syndrome due to a point mutation
+MONDO:0018218	autosomal recessive cerebral atrophy
 MONDO:0018222	X-linked intellectual disability due to GRIA3 anomalies
 MONDO:0018230	skeletal dysplasia
+MONDO:0018239	aggrecan-related bone disorder
+MONDO:0018240	TRPV4-related bone disorder
+MONDO:0018241	primary short bowel syndrome
 MONDO:0018244	obesity due to SIM1 deficiency
+MONDO:0018245	2p21 microdeletion syndrome without cystinuria
+MONDO:0018248	intellectual disability-seizures-macrocephaly-obesity syndrome
+MONDO:0018249	finger hyperphalangy - toe anomalies - severe pectus excavatum syndrome
+MONDO:0018253	intellectual disability-facial dysmorphism-hand anomalies syndrome
 MONDO:0018254	spondyloepimetaphyseal dysplasia, Isidor type
 MONDO:0018255	spondylometaphyseal dysplasia, Czarny-Ratajczak type
+MONDO:0018257	familial syringomyelia
+MONDO:0018258	Angora hair nevus
+MONDO:0018259	didymosis aplasticosebacea
 MONDO:0018260	scalp syndrome
+MONDO:0018261	Nevada syndrome
+MONDO:0018262	fetal anticonvulsant syndrome
+MONDO:0018266	ataxia - telangiectasia variant
 MONDO:0018267	combined cervical dystonia
+MONDO:0018273	XYLT1-congenital disorder of glycosylation
 MONDO:0018282	qualitative or quantitative defects of alpha-dystroglycan
 MONDO:0018283	primary qualitative or quantitative defects of alpha-dystroglycan
 MONDO:0018292	congenital disorder of glycosylation-related bone disorder
+MONDO:0018302	acquired kinky hair syndrome
 MONDO:0018303	generalized isolated dystonia
+MONDO:0018314	infantile-onset mesial temporal lobe epilepsy with severe cognitive regression
+MONDO:0018316	fatal post-viral neurodegenerative disorder
+MONDO:0018317	growth retardation-mild developmental delay-chronic hepatitis syndrome
+MONDO:0018318	disorder of asparagine metabolism
+MONDO:0018320	primary microcephaly-mild intellectual disability-young-onset diabetes syndrome
+MONDO:0018322	HSD10 disease, infantile type
+MONDO:0018323	HSD10 disease, neonatal type
 MONDO:0018324	adult-onset myasthenia gravis
 MONDO:0018325	juvenile myasthenia gravis
 MONDO:0018329	persistent combined dystonia
+MONDO:0018332	multiple acyl-CoA dehydrogenase deficiency, severe neonatal type
+MONDO:0018333	multiple acyl-CoA dehydrogenase deficiency, mild type
 MONDO:0018337	severe neonatal lactic acidosis due to NFS1-ISD11 complex deficiency
 MONDO:0018340	hereditary isolated aplastic anemia
+MONDO:0018341	3q27.3 microdeletion syndrome
 MONDO:0018343	periodic paralysis with later-onset distal motor neuropathy
+MONDO:0018344	periodic paralysis with transient compartment-like syndrome
+MONDO:0018347	severe intellectual disability-progressive postnatal microcephaly- midline stereotypic hand movements syndrome
 MONDO:0018351	adenocarcinoma of penis
+MONDO:0018354	Prader-Willi-like syndrome
+MONDO:0018355	SIM1-related Prader-Willi-like syndrome
+MONDO:0018356	secondary neonatal autoimmune disease
+MONDO:0018357	neonatal antiphospholipid syndrome
 MONDO:0018358	neonatal autoimmune hemolytic anemia
 MONDO:0018359	neonatal dermatomyositis
 MONDO:0018361	neonatal scleroderma
 MONDO:0018362	persistent idiopathic facial pain
+MONDO:0018365	malignant non-epithelial tumor of ovary
 MONDO:0018371	nebulin-related early-onset distal myopathy
 MONDO:0018374	secondary avascular necrosis
 MONDO:0018375	traumatic avascular necrosis
@@ -550,120 +1096,324 @@ MONDO:0018380	idiopathic avascular necrosis
 MONDO:0018383	osteonecrosis of genetic origin
 MONDO:0018384	avascular necrosis of genetic origin
 MONDO:0018385	osteochondrosis of genetic origin
+MONDO:0018393	male infertility with azoospermia or oligozoospermia due to single gene mutation
+MONDO:0018416	autosomal recessive spastic paraplegia type 59
+MONDO:0018417	autosomal recessive spastic paraplegia type 60
+MONDO:0018418	autosomal recessive spastic paraplegia type 66
+MONDO:0018420	autosomal recessive spastic paraplegia type 68
+MONDO:0018421	autosomal recessive spastic paraplegia type 69
+MONDO:0018422	autosomal recessive spastic paraplegia type 70
+MONDO:0018423	autosomal recessive spastic paraplegia type 71
+MONDO:0018425	Huntington disease-like syndrome due to C9ORF72 expansions
+MONDO:0018426	AXIN2-related attenuated familial adenomatous polyposis
+MONDO:0018428	9q31.1q31.3 microdeletion syndrome
+MONDO:0018429	14q24.1q24.3 microdeletion syndrome
+MONDO:0018430	partial corpus callosum agenesis-cerebellar vermis hypoplasia with posterior fossa cysts syndrome
+MONDO:0018431	cold-induced sweating syndrome - hyperthermia spectrum
 MONDO:0018433	acute myeloid leukemia with t(6;9)(p23;q34)
 MONDO:0018434	acute myeloid leukemia with t(9;11)(p22;q23)
+MONDO:0018438	eosinophilic gastrointestinal disease
+MONDO:0018440	autosomal recessive distal renal tubular acidosis
+MONDO:0018443	FBLN1-related developmental delay-central nervous system anomaly-syndactyly syndrome
+MONDO:0018446	autosomal recessive cerebellar ataxia - epilepsy - intellectual disability syndrome
+MONDO:0018449	acquired cystic disease-associated renal cell carcinoma
+MONDO:0018450	spinal muscular atrophy with respiratory distress type 2
 MONDO:0018451	X-linked distal hereditary motor neuropathy
 MONDO:0018454	dysostosis of genetic origin
+MONDO:0018461	Angelman syndrome due to a point mutation
+MONDO:0018462	Angelman syndrome due to imprinting defect in 15q11-q13
+MONDO:0018463	mild phosphoribosylpyrophosphate synthetase superactivity
+MONDO:0018464	severe phosphoribosylpyrophosphate synthetase superactivity
 MONDO:0018468	proton-pump inhibitor-responsive esophageal eosinophilia
+MONDO:0018474	13q12.3 microdeletion syndrome
+MONDO:0018475	PRKAR1B-related neurodegenerative dementia with intermediate filaments
+MONDO:0018476	dystonia-aphonia syndrome
+MONDO:0018480	carcinoma of esophagus, salivary gland type
 MONDO:0018487	autosomal recessive severe congenital neutropenia due to CXCR2 deficiency
+MONDO:0018494	microcephaly-short stature-intellectual disability-facial dysmorphism syndrome
+MONDO:0018495	X-linked intellectual disability-limb spasticity-retinal dystrophy-diabetes insipidus syndrome
 MONDO:0018496	ARX-related encephalopathy-brain malformation spectrum
 MONDO:0018498	double outlet right ventricle with subaortic or doubly committed ventricular septal defect
 MONDO:0018499	double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy
 MONDO:0018502	hereditary gastric cancer
+MONDO:0018503	carcinoma of stomach, salivary gland type
+MONDO:0018506	mesenchymal tumor of small intestine
+MONDO:0018507	microcephaly-complex motor and sensory axonal neuropathy syndrome
+MONDO:0018511	epithelial tumor of the appendix
+MONDO:0018516	epithelial tumor of anal canal
+MONDO:0018527	osteoclastic giant cell tumor of pancreas
 MONDO:0018529	qualitative or quantitative defects of Torsin-1A-interacting protein 1
+MONDO:0018532	adenocarcinoma of liver and intrahepatic biliary tract
+MONDO:0018533	undifferentiated carcinoma of liver and intrahepatic biliary tract
+MONDO:0018534	squamous cell carcinoma of liver and intrahepatic biliary tract
+MONDO:0018535	biliary cystadenocarcinoma
+MONDO:0018538	inherited digestive cancer-predisposing syndrome
+MONDO:0018547	acute tricyclic antidepressant poisoning
+MONDO:0018548	acute poisoning by drugs with membrane-stabilizing effect
+MONDO:0018550	spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder
 MONDO:0018562	genetic otorhinolaryngological malformation
+MONDO:0018564	3p25.3 microdeletion syndrome
 MONDO:0018565	congenital urachal anomaly
+MONDO:0018566	short stature-advanced bone age-early-onset osteoarthritis syndrome
+MONDO:0018567	autosomal dominant Charcot-Marie-Tooth disease type 2 due to TFG mutation
+MONDO:0018569	X-linked microcephaly-growth retardation-prognathism-cryptorchidism syndrome
+MONDO:0018571	contractures-developmental delay-Pierre Robin syndrome
+MONDO:0018572	severe intellectual disability-hypotonia-strabismus-coarse face-planovalgus syndrome
+MONDO:0018573	intrauterine growth restriction-short stature-early adult-onset diabetes syndrome
+MONDO:0018574	intellectual disability-expressive aphasia-facial dysmorphism syndrome
+MONDO:0018575	microcephalic primordial dwarfism-insulin resistance syndrome
 MONDO:0018576	non-progressive predominantly posterior cavitating leukoencephalopathy with peripheral neuropathy
+MONDO:0018577	pseudoxanthoma elasticum-like skin manifestations with retinitis pigmentosa
+MONDO:0018579	disorder of ketone body transport
+MONDO:0018580	PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome
+MONDO:0018583	human infection by orthopoxvirus
 MONDO:0018585	pediatric arterial ischemic stroke
+MONDO:0018587	non-recovering obstetric brachial plexus lesion
 MONDO:0018588	ALECT2 amyloidosis
 MONDO:0018589	AApoAIV amyloidosis
 MONDO:0018590	ABeta2M amyloidosis
+MONDO:0018593	primary polyarteritis nodosa
+MONDO:0018594	secondary polyarteritis nodosa
+MONDO:0018595	single-organ polyarteritis nodosa
+MONDO:0018596	systemic polyarteritis nodosa
 MONDO:0018599	congenital oculomotor nerve palsy
 MONDO:0018600	congenital abducens nerve palsy
+MONDO:0018601	autosomal dominant myopia-midfacial retrusion-sensorineural hearing loss-rhizomelic dysplasia syndrome
+MONDO:0018605	disorders of pentose/polyol metabolism
+MONDO:0018606	extensive peripapillary myelinated nerve fibers
+MONDO:0018607	combined hamartoma of the retina and retinal pigment epithelium
+MONDO:0018610	early-onset posterior subcapsular cataract
+MONDO:0018611	early-onset lamellar cataract
 MONDO:0018613	AH amyloidosis
 MONDO:0018614	undetermined early-onset epileptic encephalopathy
+MONDO:0018620	hypothalamic adipsic hypernatraemia syndrome
 MONDO:0018621	lymphoplasmacytic lymphoma without IgM production
+MONDO:0018624	spontaneous intracranial hypotension
+MONDO:0018625	classic stiff person syndrome
+MONDO:0018628	HIV-associated cancer
+MONDO:0018629	focal stiff limb syndrome
+MONDO:0018632	11q22.2q22.3 microdeletion syndrome
+MONDO:0018633	20q11.2 microdeletion syndrome
 MONDO:0018635	idiopathic phalangeal acro-osteolysis
 MONDO:0018639	caudal regression-sirenomelia spectrum
 MONDO:0018640	secondary vasculitis
 MONDO:0018642	NIK deficiency
 MONDO:0018643	susceptibility to localized juvenile periodontitis
+MONDO:0018644	autosomal dominant complex spastic paraplegia type 9B
+MONDO:0018654	idiopathic dropped head syndrome
+MONDO:0018658	19p13.3 microduplication syndrome
 MONDO:0018659	partial duplication of the short arm of chromosome 19
+MONDO:0018662	autosomal recessive brachyolmia
+MONDO:0018665	X-linked acrogigantism due to a point mutation
+MONDO:0018670	symptomatic form of fragile X syndrome in female carrier
+MONDO:0018671	IgG4-related kidney disease
 MONDO:0018672	IgG4-related aortitis
+MONDO:0018675	IgG4-related ophthalmic disorder
 MONDO:0018679	primary cutaneous plasmacytosis
+MONDO:0018681	neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome
 MONDO:0018682	congenital insensitivity to pain with severe intellectual disability
+MONDO:0018696	corticobasal syndrome
+MONDO:0018697	1p35.2 microdeletion syndrome
+MONDO:0018698	hereditary neuroendocrine tumor of small intestine
 MONDO:0018701	congenital nemaline myopathy
+MONDO:0018702	Castleman-Kojima disease
+MONDO:0018703	isolated splenogonadal fusion
+MONDO:0018705	infantile-onset axonal motor and sensory neuropathy-optic atrophy-neurodegenerative syndrome
+MONDO:0018706	syndromic sensorineural deafness due to combined oxidative phosphorylation defect
+MONDO:0018708	squamous cell carcinoma of the oral tongue
 MONDO:0018710	megalencephaly-severe kyphoscoliosis-overgrowth syndrome
+MONDO:0018711	intellectual disability-muscle weakness-short stature-facial dysmorphism syndrome
 MONDO:0018716	partially involuting congenital hemangioma
 MONDO:0018717	mixed cystic lymphatic malformation
 MONDO:0018720	common cystic lymphatic malformation
+MONDO:0018724	X-linked intellectual disability-cerebellar hypoplasia-spondylo-epiphyseal dysplasia syndrome
+MONDO:0018725	corpus callosum agenesis-macrocephaly-hypertelorism syndrome
 MONDO:0018731	lethal multiple congenital anomalies/dysmorphic syndrome
+MONDO:0018733	intellectual disability syndrome due to a DYRK1A point mutation
 MONDO:0018736	kaposiform lymphangiomatosis
+MONDO:0018738	benign metanephric tumour
+MONDO:0018742	familial gastric type 1 neuroendocrine tumor
+MONDO:0018743	immune-mediated acquired neuromuscular junction disease
+MONDO:0018745	superficial pemphigus
+MONDO:0018751	genetic otorhinolaryngologic disease
 MONDO:0018756	euthyroid Graves orbitopathy
 MONDO:0018757	supratip dysplasia
+MONDO:0018758	familial patent arterial duct
+MONDO:0018759	childhood-onset progressive contractures-limb-girdle weakness-muscle dystrophy syndrome
+MONDO:0018760	DeSanto-Shinawi syndrome
+MONDO:0018763	tubulinopathy-associated dysgyria
 MONDO:0018766	chronic enteropathy associated with SLCO2A1 gene
 MONDO:0018771	congenital anomaly of ventricular septum
+MONDO:0018773	autosomal dominant distal axonal motor neuropathy-myofibrillar myopathy syndrome
+MONDO:0018774	erythrokeratodermia-cardiomyopathy syndrome
 MONDO:0018775	axonal hereditary motor and sensory neuropathy
 MONDO:0018776	demyelinating hereditary motor and sensory neuropathy
+MONDO:0018777	autosomal dominant preaxial polydactyly-upperback hypertrichosis syndrome
+MONDO:0018779	hypercontractile muscle stiffness syndrome
 MONDO:0018780	congenital generalized hypercontractile muscle stiffness syndrome
 MONDO:0018782	type 1 interferonopathy
 MONDO:0018786	pontine autosomal dominant microangiopathy with leukoencephalopathy
+MONDO:0018788	COL4A1 or COL4A2-related cerebral small vessel disease
 MONDO:0018791	Moyomoya angiopathy
 MONDO:0018793	primary condylar hyperplasia
+MONDO:0018795	syndromic constitutional thrombocytopenia
 MONDO:0018796	isolated constitutional thrombocytopenia
+MONDO:0018804	MYO5B-related progressive familial intrahepatic cholestasis
 MONDO:0018806	primary intrahepatic lithiasis
+MONDO:0018807	idiopathic ductopenia
+MONDO:0018808	Caroli syndrome
 MONDO:0018809	idiopathic peliosis hepatis
+MONDO:0018810	lethal hydranencephaly-diaphragmatic hernia syndrome
 MONDO:0018811	congenital portosystemic shunt
+MONDO:0018812	MSH3-related attenuated familial adenomatous polyposis
 MONDO:0018813	high grade B-cell lymphoma with MYC and/ or BCL2 and/or BCL6 rearrangement
 MONDO:0018814	non-SCID combined immunodeficiency
+MONDO:0018818	facial diplegia with paresthesias
+MONDO:0018821	X-linked female restricted facial dysmorphism-short stature-choanal atresia-intellectual disability
+MONDO:0018822	global developmental delay-visual anomalies-progressive cerebellar atrophy-truncal hypotonia syndrome
+MONDO:0018823	X-linked intellectual disability-global development delay-facial dysmorphism-sacral caudal remnant syndrome
 MONDO:0018825	PYCR2-related microcephaly-progressive leukoencephalopathy
+MONDO:0018831	HTRA1-related cerebral small vessel disease
+MONDO:0018832	HTRA1-related autosomal dominant cerebral small vessel disease
 MONDO:0018834	adenylosuccinate synthetase-like 1-related distal myopathy
+MONDO:0018839	acquired schizencephaly
+MONDO:0018860	microlissencephaly-micromelia syndrome
+MONDO:0018873	anterior cutaneous nerve entrapment syndrome
 MONDO:0018888	congenital cornea plana
+MONDO:0018890	Lyell syndrome
 MONDO:0018916	isolated anorectal malformation
 MONDO:0018967	short stature due to isolated growth hormone deficiency with X-linked hypogammaglobulinemia
+MONDO:0018977	polyneuropathy associated with IgM monoclonal gammapathy with anti-MAG
+MONDO:0018981	benign idiopathic neonatal seizures
+MONDO:0019017	short fifth metacarpals-insulin resistance syndrome
+MONDO:0019022	sensorineural hearing loss-early graying-essential tremor syndrome
 MONDO:0019042	multiple congenital anomalies/dysmorphic syndrome
+MONDO:0019044	tumor of hematopoietic and lymphoid tissues
 MONDO:0019054	congenital limb malformation
 MONDO:0019063	vascular anomaly
 MONDO:0019075	Bosley-Salih-Alorainy syndrome
 MONDO:0019076	circumscribed palmoplantar hypokeratosis
+MONDO:0019101	retinal capillary malformation
+MONDO:0019123	continuous spikes and waves during sleep
 MONDO:0019126	intractable diarrhea of infancy
+MONDO:0019130	tubular renal disease-cardiomyopathy syndrome
+MONDO:0019131	ossification anomalies-psychomotor developmental delay syndrome
+MONDO:0019132	spinal muscular atrophy-Dandy-Walker malformation-cataracts syndrome
+MONDO:0019133	visceral neuropathy-brain anomalies-facial dysmorphism-developmental delay syndrome
 MONDO:0019138	bleeding diathesis due to a collagen receptor defect
 MONDO:0019144	hereditary thrombophilia due to congenital protein S deficiency
+MONDO:0019176	trichorhinophalangeal syndrome type I or III
+MONDO:0019178	auricular abnormalities-cleft lip with or without cleft palate-ocular abnormalities syndrome
+MONDO:0019199	interstitial granulomatous dermatitis with arthritis
+MONDO:0019205	trichodysplasia-amelogenesis imperfecta syndrome
+MONDO:0019206	sparse hair-short stature-skin anomalies syndrome
 MONDO:0019213	cerebral organic aciduria
 MONDO:0019215	classic organic aciduria
+MONDO:0019219	inborn disorder of neurotransmitter metabolism and transport
+MONDO:0019220	inborn disorder of cobalamin metabolism and transport
+MONDO:0019223	disorder of fatty acid and ketone body metabolism
+MONDO:0019224	inborn disorder of gamma-aminobutyric acid metabolism
+MONDO:0019225	disorder of gluconeogenesis
+MONDO:0019226	glucose transport disorder
+MONDO:0019227	inborn disorder of glycerol metabolism
+MONDO:0019229	inborn disorder of ketolysis
+MONDO:0019230	inborn disorder of ornithine or proline metabolism
+MONDO:0019231	inborn disorder of pentose phosphate metabolism
+MONDO:0019232	inborn disorder of peptide metabolism
+MONDO:0019235	inborn disorder of phenylalanine and tyrosine metabolism
+MONDO:0019237	inborn disorder of pyridoxine metabolism
+MONDO:0019239	inborn disorder of serine family metabolism
+MONDO:0019240	sterol biosynthesis disorder
+MONDO:0019243	inborn disorder of energy metabolism
+MONDO:0019246	inborn disorder of lysosomal amino acid transport
+MONDO:0019250	inborn disorder of biogenic amine metabolism and transport
 MONDO:0019251	oligosaccharidosis
+MONDO:0019253	metabolic disease involving other neurotransmitter deficiency
+MONDO:0019256	sterol metabolism disorder
 MONDO:0019265	diazoxide-resistant focal hyperinsulinism
+MONDO:0019268	epidermal disease
 MONDO:0019271	acrokeratoderma
 MONDO:0019277	epidermal appendage anomaly
 MONDO:0019278	hair anomaly
 MONDO:0019281	isolated genetic hair shaft abnormality
 MONDO:0019286	sebaceous gland anomaly
+MONDO:0019292	dermis elastic tissue disorder
+MONDO:0019294	mixed dermis disorder
+MONDO:0019296	subcutaneous tissue disorder
+MONDO:0019310	recessive dystrophic epidermolysis bullosa inversa
+MONDO:0019317	follicular atrophoderma-basal cell carcinoma
+MONDO:0019333	autosomal recessive hyperinsulinism due to SUR1 deficiency
+MONDO:0019334	autosomal recessive hyperinsulinism due to Kir6.2 deficiency
 MONDO:0019335	mild hyperphenylalaninemia
 MONDO:0019357	congenital narrowing of cervical spinal canal
 MONDO:0019377	Mycoplasma encephalitis
+MONDO:0019387	macrostomia-preauricular tags-external ophthalmoplegia syndrome
 MONDO:0019393	idiopathic malabsorption due to bile acid synthesis defects
 MONDO:0019397	unknown leukodystrophy
 MONDO:0019398	desmin-related myopathy with Mallory body-like inclusions
 MONDO:0019406	craniofacial conodysplasia
 MONDO:0019411	genochondromatosis type 1
+MONDO:0019416	X-linked intellectual disability-hypogammaglobulinemia-progressive neurological deterioration syndrome
+MONDO:0019417	X-linked intellectual disability-precocious puberty-obesity syndrome
+MONDO:0019418	X-linked intellectual disability-epilepsy-progressive joint contractures-dysmorphism syndrome
+MONDO:0019424	X-linked intellectual disability-acromegaly-hyperactivity syndrome
+MONDO:0019430	X-linked intellectual disability-ataxia-apraxia syndrome
 MONDO:0019432	rheumatoid factor-negative juvenile idiopathic arthritis
+MONDO:0019463	non-amyloid monoclonal immunoglobulin deposition disease
 MONDO:0019482	dendritic cell sarcoma not otherwise specified
 MONDO:0019484	hypothalamic hamartomas with gelastic seizures
+MONDO:0019486	myoclonic epilepsy of infancy
 MONDO:0019488	myoclonic epilepsy in non-progressive encephalopathies
+MONDO:0019489	diffuse palmoplantar keratoderma - acrocyanosis syndrome
 MONDO:0019513	esophageal malformation
+MONDO:0019520	syndromic lymphedema
 MONDO:0019528	inflammatory pseudotumor of the liver
 MONDO:0019541	non-infectious posterior uveitis
+MONDO:0019543	acquired aneurysmal subarachnoid hemorrhage
 MONDO:0019545	systemic monochloroacetate poisoning
+MONDO:0019550	hereditary motor and sensory neuropathy with acrodystrophy
 MONDO:0019552	centrifugal lipodystrophy
+MONDO:0019554	idiopathic localized lipodystrophy
+MONDO:0019555	panniculitis and localized lipodystrophy
+MONDO:0019559	hypertrophic or verrucous lupus erythematosus
 MONDO:0019573	autosomal recessive cutis laxa type 2
 MONDO:0019582	self-healing papular mucinosis
 MONDO:0019583	localized lichen myxedematosus with mixed features of different subtypes
 MONDO:0019584	localized lichen myxedematosus with monoclonal gammopathy or systemic symptoms
 MONDO:0019585	scleromyxedema without monoclonal gammopathy
+MONDO:0019593	46,XX disorder of sex development induced by fetal androgens excess
+MONDO:0019597	46,XY disorder of sex development due to isolated 17,20-lyase deficiency
 MONDO:0019599	primary lipodystrophy
 MONDO:0019607	unspecified juvenile idiopathic arthritis
+MONDO:0019608	46,XX disorder of sex development induced by maternal-derived androgen
 MONDO:0019615	pituitary dermoid and epidermoid cysts
 MONDO:0019619	duplication of the esophagus
+MONDO:0019626	isolated ankyloblepharon filiforme adnatum
 MONDO:0019641	pauci-immune glomerulonephritis
 MONDO:0019646	unilateral congenital megacalycosis
 MONDO:0019647	congenital bilateral megacalycosis
+MONDO:0019649	idiopathic steroid-sensitive nephrotic syndrome with focal segmental hyalinosis
+MONDO:0019650	idiopathic steroid-sensitive nephrotic syndrome with minimal change
+MONDO:0019651	idiopathic steroid-sensitive nephrotic syndrome with diffuse mesangial proliferation
+MONDO:0019652	familial idiopathic steroid-resistant nephrotic syndrome with diffuse mesangial proliferation
+MONDO:0019653	familial idiopathic steroid-resistant nephrotic syndrome with minimal changes
+MONDO:0019654	familial idiopathic steroid-resistant nephrotic syndrome with diffuse mesangial sclerosis
+MONDO:0019655	sporadic idiopathic steroid-resistant nephrotic syndrome with focal segmental hyalinosis
+MONDO:0019656	sporadic idiopathic steroid-resistant nephrotic syndrome with diffuse mesangial sclerosis
+MONDO:0019659	Pfeiffer syndrome type 1
+MONDO:0019660	Pfeiffer syndrome type 2
+MONDO:0019661	Pfeiffer syndrome type 3
 MONDO:0019672	fibular hemimelia
 MONDO:0019682	congenital sialidosis type 2
 MONDO:0019685	FGFR3-related chondrodysplasia
+MONDO:0019688	sulfation-related bone disorder
+MONDO:0019689	perlecan-related bone disorder
+MONDO:0019690	filamin-related bone disorder
 MONDO:0019692	multiple epiphyseal dysplasia and pseudoachondroplasia
 MONDO:0019693	multiple metaphyseal dysplasia
 MONDO:0019694	spondylodysplastic dysplasia
 MONDO:0019695	acromelic dysplasia
+MONDO:0019697	mesomelic and rhizo-mesomelic dysplasia
 MONDO:0019699	slender bone dysplasia
 MONDO:0019707	primary osteolysis
 MONDO:0019712	patellar dysostosis
@@ -671,11 +1421,35 @@ MONDO:0019713	non-syndromic limb reduction defect
 MONDO:0019714	non-syndromic polydactyly, syndactyly and/or hyperphalangy
 MONDO:0019718	lethal chondrodysplasia
 MONDO:0019720	non-syndromic renal or urinary tract malformation
+MONDO:0019723	disease of glomerular basement membrane
+MONDO:0019724	secondary glomerular disease
 MONDO:0019725	pediatric systemic lupus erythematosus
+MONDO:0019729	light and heavy chain deposition disease
+MONDO:0019731	AApoAI amyloidosis
+MONDO:0019732	ALys amyloidosis
+MONDO:0019733	AFib amyloidosis
+MONDO:0019738	atypical hemolytic-uremic syndrome with H factor anomaly
+MONDO:0019739	atypical hemolytic-uremic syndrome with anti-factor H antibodies
+MONDO:0019741	familial cystic renal disease
 MONDO:0019742	late-onset nephronophthisis
+MONDO:0019743	nephropathy secondary to a storage or other metabolic disease
+MONDO:0019746	cystinuria type B
+MONDO:0019752	pediatric Castleman disease
+MONDO:0019761	laryngotracheoesophageal cleft type 1
+MONDO:0019762	laryngotracheoesophageal cleft type 2
+MONDO:0019764	laryngotracheoesophageal cleft type 4
+MONDO:0019766	X-linked intellectual disability, Porteous type
+MONDO:0019767	hamel cerebro-palato-cardiac syndrome
+MONDO:0019768	X-linked intellectual disability, Golabi-Ito-hall type
+MONDO:0019769	X-linked intellectual disability, Sutherland-Haan type
+MONDO:0019770	X-linked dominant intellectual disability-epilepsy syndrome
 MONDO:0019782	humero-ulnar synostosis
 MONDO:0019786	severe intellectual disability-epilepsy-anal anomalies-distal phalangeal hypoplasia
+MONDO:0019792	autosomal dominant cerebellar ataxia type I
+MONDO:0019793	autosomal dominant cerebellar ataxia type III
+MONDO:0019794	autosomal dominant cerebellar ataxia type IV
 MONDO:0019800	chronic hepatic porphyria
+MONDO:0019802	secondary short bowel syndrome
 MONDO:0019814	straddling or overriding tricuspid valve
 MONDO:0019815	accessory tricuspid valve tissue
 MONDO:0019816	anomaly of the tricuspid subvalvular apparatus
@@ -690,9 +1464,12 @@ MONDO:0019836	congenital anomaly of hepatic vein
 MONDO:0019837	atrial appendage anomaly
 MONDO:0019838	adenohypophysitis
 MONDO:0019839	panhypophysitis
+MONDO:0019844	pituitary hormone deficiency secondary to storage disease
 MONDO:0019845	iatrogenic or traumatic pituitary deficiency
 MONDO:0019848	posterior hypospadias
 MONDO:0019849	isolated micropenis
+MONDO:0019875	Beckwith-Wiedemann syndrome due to 11p15 microduplication
+MONDO:0019878	3q26 microduplication syndrome
 MONDO:0019892	distal monosomy 7p
 MONDO:0019893	distal monosomy 19p13.3
 MONDO:0019895	distal monosomy 4q
@@ -701,30 +1478,63 @@ MONDO:0019898	distal monosomy 14q
 MONDO:0019899	distal monosomy 20q
 MONDO:0019900	non-distal monosomy 12q
 MONDO:0019901	non-distal monosomy 20q
+MONDO:0019913	silver-Russell syndrome due to maternal uniparental disomy of chromosome 7
 MONDO:0019915	maternal uniparental disomy of chromosome 14
 MONDO:0019916	maternal uniparental disomy of chromosome 16
 MONDO:0019918	maternal uniparental disomy of chromosome 21
 MONDO:0019919	maternal uniparental disomy of chromosome 22
 MONDO:0019920	paternal uniparental disomy of chromosome 5
 MONDO:0019921	paternal uniparental disomy of chromosome 6
+MONDO:0019923	Beckwith-Wiedemann syndrome due to paternal uniparental disomy of chromosome 11
+MONDO:0019930	Leydig cell hypoplasia due to complete LH resistance
+MONDO:0019931	Leydig cell hypoplasia due to partial LH resistance
 MONDO:0019935	isochromosome Y
 MONDO:0019939	early-onset schizophrenia
 MONDO:0019953	mega-cisterna magna
+MONDO:0019955	GRFoma
+MONDO:0019963	bronchial endocrine tumor
+MONDO:0019969	panner disease
+MONDO:0019971	melanoma of soft tissue
 MONDO:0019972	dural sinus malformation
 MONDO:0019981	unilateral multicystic dysplastic kidney
+MONDO:0019984	renal tubular dysgenesis due to twin-twin transfusion
 MONDO:0019985	drug-related renal tubular dysgenesis
+MONDO:0019986	sporadic idiopathic steroid-resistant nephrotic syndrome with collapsing glomerulopathy
+MONDO:0019988	pauci-immune glomerulonephritis with ANCA
 MONDO:0019989	pauci-immune glomerulonephritis without ANCA
+MONDO:0019994	maternal uniparental disomy of chromosome 13
 MONDO:0019998	gastroduodenal malformation
 MONDO:0019999	intestinal malformation
 MONDO:0020001	respiratory or thoracic malformation
+MONDO:0020007	absence of the pulmonary artery
 MONDO:0020018	cranial malformation
 MONDO:0020019	digestive tract malformation
 MONDO:0020020	visceral malformation of the liver, biliary tract, pancreas or spleen
 MONDO:0020021	diaphragmatic or abdominal wall malformation
 MONDO:0020023	respiratory or mediastinal malformation
+MONDO:0020039	46,XX disorder of sex development induced by androgens excess
 MONDO:0020043	autosomal recessive congenital cerebellar ataxia
+MONDO:0020044	autosomal recessive metabolic cerebellar ataxia
+MONDO:0020046	autosomal recessive degenerative and progressive cerebellar ataxia
+MONDO:0020047	autosomal recessive syndromic cerebellar ataxia
+MONDO:0020049	autosomal anomaly
+MONDO:0020065	combined dystonia
+MONDO:0020069	chronic encephalitis
+MONDO:0020070	neonatal epilepsy syndrome
+MONDO:0020071	infantile epilepsy syndrome
+MONDO:0020072	childhood-onset epilepsy syndrome
+MONDO:0020073	adolescent-onset epilepsy syndrome
 MONDO:0020075	genetic non-syndromic obesity
+MONDO:0020081	macrophage or histiocytic tumor
+MONDO:0020083	immunodeficiency-associated lymphoproliferative disease
+MONDO:0020084	lymphoproliferative disease associated with primary immune disease
+MONDO:0020093	autosomal dominant isolated diffuse palmoplantar keratoderma
+MONDO:0020096	autosomal recessive isolated diffuse palmoplantar keratoderma
+MONDO:0020117	alpha granule disease
+MONDO:0020118	dense granule disease
+MONDO:0020125	acquired neuromuscular junction disease
 MONDO:0020127	genetic peripheral neuropathy
+MONDO:0020129	acquired motor neuron disease
 MONDO:0020130	malformation of the cerebellar vermis
 MONDO:0020131	malformation of the cerebellar hemispheres
 MONDO:0020132	cranial nerve and nuclear aplasia
@@ -732,24 +1542,44 @@ MONDO:0020133	posterior fossa malformation
 MONDO:0020144	cerebrovascular dementia
 MONDO:0020145	developmental defect of the eye
 MONDO:0020146	major induction processes eye anomaly
+MONDO:0020147	anophthalmia-microphthalmia syndrome
+MONDO:0020148	syndromic aniridia
+MONDO:0020154	microblepharon-ablephara syndrome
 MONDO:0020155	eyelid border anomaly
+MONDO:0020156	syndromic ankyloblepharon
+MONDO:0020157	syndromic palpebral coloboma
+MONDO:0020158	eyelids malposition disorder
 MONDO:0020160	secondary entropion
 MONDO:0020162	secondary ectropion
 MONDO:0020163	canthal anomaly
 MONDO:0020164	epicanthal fold
+MONDO:0020165	syndromic epicanthus
 MONDO:0020167	malposition of external canthus
+MONDO:0020173	benign tumor of palpebral epidermis
 MONDO:0020174	precancerous lesion of palpebral epidermis
+MONDO:0020176	palpebral sebaceous gland tumor
+MONDO:0020177	pigmented palpebral tumor
 MONDO:0020178	palpebral lentiginosis
+MONDO:0020180	palpebral piliary tumor
+MONDO:0020181	mesenchymatous palpebral tumor
+MONDO:0020183	neurogenic palpebral tumor
 MONDO:0020193	secretory apparatus of the lacrimal system anomaly
 MONDO:0020194	congenital alacrima
 MONDO:0020195	excretory apparatus of the lacrimal system anomaly
 MONDO:0020196	anomaly of the secretory and excretory apparatus of the lacrimal system
+MONDO:0020197	EEC syndrome and related syndrome
 MONDO:0020203	pigmented conjunctival lesion
 MONDO:0020205	bulbar conjunctival dermoid or conjunctival dermolipoma
+MONDO:0020210	syndromic hyperopia
+MONDO:0020211	syndromic keratoconus
+MONDO:0020215	syndromic corneal dystrophy
 MONDO:0020216	secondary dysgenetic glaucoma
 MONDO:0020219	corneogoniodysgenesis
 MONDO:0020235	lens size anomaly
 MONDO:0020237	lens shape anomaly
+MONDO:0020238	inherited vitreous-retinal disease
+MONDO:0020240	syndromic retinitis pigmentosa
+MONDO:0020245	disease predisposing to age-related macular degeneration
 MONDO:0020252	essential strabismus
 MONDO:0020256	congenital trochlear nerve palsy
 MONDO:0020275	oculocutaneous or ocular albinism
@@ -760,7 +1590,12 @@ MONDO:0020287	pulmonary artery or pulmonary branch anomaly
 MONDO:0020288	atrioventricular valve anomaly
 MONDO:0020293	ascending aorta anomaly
 MONDO:0020294	atrial defect and interatrial communication
+MONDO:0020298	Prader-Willi syndrome due to maternal uniparental disomy of chromosome 15
+MONDO:0020301	Prader-Willi syndrome due to paternal 15q11q13 deletion
+MONDO:0020302	Angelman syndrome due to maternal 15q11q13 deletion
+MONDO:0020303	Angelman syndrome due to paternal uniparental disomy of chromosome 15
 MONDO:0020305	isochromosomy Yq
+MONDO:0020308	benign childhood occipital epilepsy, Gastaut type
 MONDO:0020327	classic Hodgkin lymphoma, nodular sclerosis type
 MONDO:0020339	X-linked complex spastic paraplegia
 MONDO:0020343	alpha-crystallinopathy
@@ -769,10 +1604,15 @@ MONDO:0020345	presynaptic congenital myasthenic syndrome
 MONDO:0020346	synaptic congenital myasthenic syndrome
 MONDO:0020351	Blake pouch cyst
 MONDO:0020353	von Hippel anomaly
+MONDO:0020362	inverse Marcus-Gunn phenomenon
+MONDO:0020363	honey-droplet corneal dystrophy
 MONDO:0020372	early-onset sutural cataract
+MONDO:0020375	coralliform cataract
+MONDO:0020377	early-onset partial cataract
 MONDO:0020378	early-onset posterior polar cataract
 MONDO:0020385	congenitally uncorrected transposition of the great arteries with coarctation
 MONDO:0020388	double outlet right ventricle with non-committed subpulmonary ventricular septal defect
+MONDO:0020389	pulmonary valve agenesis-ventricular septal defect-persistent ductus arteriosus syndrome
 MONDO:0020390	pulmonary artery coming from patent ductus arteriosus
 MONDO:0020392	discrete fixed membranous subaortic stenosis
 MONDO:0020393	discrete fibromuscular subaortic stenosis
@@ -783,6 +1623,9 @@ MONDO:0020401	congenital unguarded mitral orifice
 MONDO:0020402	congenital accessory mitral valve tissue
 MONDO:0020403	congenital mitral valve agenesis
 MONDO:0020405	straddling and/or overriding mitral valve
+MONDO:0020406	complete atrioventricular canal-left heart obstruction syndrome
+MONDO:0020407	complete atrioventricular canal-ventricle hypoplasia syndrome
+MONDO:0020408	complete atrioventricular canal-tetralogy of fallot syndrome
 MONDO:0020409	univentricular heart with single atrio-ventricular valve
 MONDO:0020410	aorto-right ventricular tunnel
 MONDO:0020411	aorto-left ventricular tunnel
@@ -807,21 +1650,36 @@ MONDO:0020450	azygos continuation of the inferior vena cava
 MONDO:0020454	congenital complete agenesis of pericardium
 MONDO:0020455	congenital partial agenesis of pericardium
 MONDO:0020456	pleuro-pericardial cyst
+MONDO:0020462	tarsal kink syndrome
 MONDO:0020463	isolated congenital ectropion
 MONDO:0020468	paternal uniparental disomy of chromosome 13
+MONDO:0020472	Turner syndrome due to structural X chromosome anomalies
+MONDO:0020475	dermotrichic syndrome
 MONDO:0020476	mesial temporal lobe epilepsy with hippocampal sclerosis
 MONDO:0020477	progeria-associated arthropathy
 MONDO:0020488	atypical progressive supranuclear palsy syndrome
+MONDO:0020489	familial hyperreninemic hypoaldosteronism type 1
+MONDO:0020494	oculootodental syndrome
+MONDO:0020506	ovarioleukodystrophy
 MONDO:0020507	Cree leukoencephalopathy
 MONDO:0020509	secondary syringomyelia
 MONDO:0020512	precursor T-cell acute lymphoblastic leukemia
+MONDO:0020521	Ehlers-Danlos syndrome type 7A
 MONDO:0020524	primary parathyroid hyperplasia
+MONDO:0020526	acute megakaryoblastic leukemia in down syndrome
+MONDO:0020529	ACTH-independent Cushing syndrome
 MONDO:0020537	occupational allergic alveolitis
+MONDO:0020538	malignant dysgerminomatous germ cell tumor of ovary
+MONDO:0020539	extragonadal non-dysgerminomatous germ cell tumor
+MONDO:0020543	theca steroid-producing cell malignant tumor of ovary, not further specified
+MONDO:0020569	intermediate DEND syndrome
+MONDO:0020571	relapsing epidemic typhus
 MONDO:0020693	glycogen storage disease due to liver phosphorylase kinase deficiency
 MONDO:0021026	genetic epidermal appendage anomaly
 MONDO:0021029	genetic sebaceous gland anomaly
 MONDO:0021034	genetic alopecia
 MONDO:0021141	acquired
+MONDO:0021154	dermis disorder
 MONDO:0021664	cervical aortic arch
 MONDO:0022397	retinal ciliopathy due to mutation in the retinitis pigmentosa-1 gene
 MONDO:0022399	retinal ciliopathy due to mutation in the RPGR gene
@@ -832,6 +1690,8 @@ MONDO:0022407	retinal ciliopathy due to mutation in Bardet-Biedl gene
 MONDO:0022409	nephropathy-associated ciliopathy
 MONDO:0022410	retinal ciliopathy
 MONDO:0024471	non-inflammatory vasculopathy
+MONDO:0025511	inherited neuroendocrine tumor
+MONDO:0025667	limbal stem cell deficiency
 MONDO:0027652	5-fluorouracil toxicity
 MONDO:0027653	abacavir toxicity
 MONDO:0027655	allopurinol toxicity
@@ -1044,6 +1904,7 @@ MONDO:0100343	antenatal Bartter syndrome
 MONDO:0100367	port-wine nevi-mega cisterna magna-hydrocephalus syndrome
 MONDO:0100501	body-stalk anomaly
 MONDO:0800075	dysostosis with predominant vertebral with and without costal involvement
+MONDO:0800084	primary bone dysplasia with increased bone density
 MONDO:0800085	dysostosis with predominant craniofacial involvement
 MONDO:0800086	primary bone dysplasia with multiple joint dislocations
 MONDO:0800087	type 11 collagen-related bone disorder
@@ -1053,3 +1914,4 @@ MONDO:0800091	overgrowth or tall stature syndrome with skeletal involvement
 MONDO:0800092	genetic inflammatory or rheumatoid-like osteoarthropathy
 MONDO:0800093	dysostosis with brachydactyly without extraskeletal manifestations
 MONDO:0800094	dysostosis with brachydactyly with extraskeletal manifestations
+MONDO:0800095	syndrome with synostosis or other joint formation defect
