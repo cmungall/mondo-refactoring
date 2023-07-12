@@ -4,8 +4,9 @@ CREATE VIEW is_a AS
  WHERE object NOT LIKE '_:%';
 
 -- ORDO equivs
+DROP VIEW IF exists mondo_with_ordo
 CREATE VIEW mondo_with_ordo AS
- SELECT subject AS id
+ SELECT DISTINCT subject AS id
  FROM has_dbxref_statement
  WHERE value LIKE 'Orphanet:%' AND subject LIKE 'MONDO:%';
  
